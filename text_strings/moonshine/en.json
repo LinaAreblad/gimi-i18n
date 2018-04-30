@@ -1205,10 +1205,10 @@
   "allowance_frequency_select_monthly_title": "Monthly",
   "allowance_frequency_select_weekly_title": "Weekly",
   "notification_section_setup": "Setup",
-  "general_weekly_allowance": "Veckopeng",
-  "general_monthly_allowance": "Månadspeng",
+  "general_weekly_allowance": "Weekly pocket money",
+  "general_monthly_allowance": "Monthly pocket money",
   "kid_connected_parent": "you and %1$d are now connected",
-  "set_interest_descr": "som beräknas på hur mycket som finns sparat",
+  "set_interest_descr": "PLZ_CHECK which is calculated on how much is saved",
   "payday_circle_empty_state_title": "No money in sight...",
   "explainer_video_tutorial": "explainer video"
 }
