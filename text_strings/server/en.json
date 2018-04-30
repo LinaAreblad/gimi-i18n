@@ -274,5 +274,6 @@
   "push_short_tutorial": "This is how Gimi works, in 20 seconds",
   "event_chore_name_is_changed": "PLZ_CHECK Chore {name} has been changed",
   "event_welcome_back": "Welcome back! Do you want to start over?",
-  "event_tell_that_your_back": "Let your family know you're back!"
+  "event_tell_that_your_back": "Let your family know you're back!",
+  "event_parent_could_not_be_connected": "Föräldrar kunde inte anslutas"
 }
