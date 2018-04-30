@@ -22,7 +22,7 @@ expect.extend({
 })
 
 let getAllConfigFiles = (): Array<Object> => {
-  configs = fs.readdirSync('./config/')
+  configs = fs.existsSync('./config/') ? fs.readdirSync('./config/') : fs.readdirSync('./src/i18n/config/')
   configs.forEach(file => {
     file = file.split('config_')[1]
     if (file && file.indexOf('.json') !== -1) {
