@@ -1211,10 +1211,10 @@
   "set_interest_descr": "PLZ_CHECK which is calculated on how much is saved",
   "payday_circle_empty_state_title": "No money in sight...",
   "explainer_video_tutorial": "explainer video",
-  "future_interest_help_header": "PLZ_TRANSLATE Ränta, vad är det?",
-  "future_interest_help_desc": "PLZ_TRANSLATE Siffran som du ser här visar hur mycket bonus du får för att du sparar pengar. Ju mer pengar du har i molnet desto mer ränta får du som bonus",
-  "future_allowance_help_header": "PLZ_TRANSLATE %1$d, vad är det?",
-  "future_allowance_help_desc": "PLZ_TRANSLATE Siffran som du ser här visar hur mycket du har i vecko- eller månadspeng. Pengarna kommer antingen en gån gi veckan eller månaden",
-  "chore_transaction_help_header": "PLZ_TRANSLATE Uppgifter, vad är det?",
-  "chore_transaction_help_desc": "PLZ_TRANSLATE Siffran du ser här visar hur mycket du tjänat på de uppgifter som du gjort under veckan eller månaden."
+  "future_interest_help_header": "Ränta, vad är det?",
+  "future_interest_help_desc": "Siffran som du ser här visar hur mycket bonus du får för att du sparar pengar. Ju mer pengar du har i molnet desto mer ränta får du som bonus",
+  "future_allowance_help_header": "%1$d, vad är det?",
+  "future_allowance_help_desc": "Siffran som du ser här visar hur mycket du har i vecko- eller månadspeng. Pengarna kommer antingen en gån gi veckan eller månaden",
+  "chore_transaction_help_header": "Uppgifter, vad är det?",
+  "chore_transaction_help_desc": "Siffran du ser här visar hur mycket du tjänat på de uppgifter som du gjort under veckan eller månaden."
 }
