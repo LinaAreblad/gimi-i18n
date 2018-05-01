@@ -709,7 +709,7 @@
   "transfers_only_one_way_warning_desc": "Pengar kan inte överföras från ditt kort tillbaka till ditt sparkonto. Pengarna på kortet ska spenderas så se till att inte föra över för mycket!",
   "deep_regret": "Deep regret",
   "connection_invite_sent": "Inbjudan skickad",
-  "connection_invite_sent_description": "Vi skickar en notis när din inbjudan blivit accepterad",
+  "connection_invite_sent_description": "Vi skickar en notis när din inbjudan blivit accepterad.",
   "general_ok_nice": "OK nice",
   "question_transfer_amount_to_n": "Hur mycket vill du föra över till %1$d?",
   "how_often": "hur ofta?",
