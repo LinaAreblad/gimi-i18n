@@ -473,7 +473,7 @@
   "bot_question_goal_map": "You have advanced with your savings goal... Do you want to climb the goal map?",
   "bot_message_error": "Oops! Something went wrong",
   "bot_stats_bank": "The difference in your cloud since last month is %1$d",
-  "bot_stats_tasks_profit": "%1$d was earned on chores this week, and you have performed %2$d of your tasks!",
+  "bot_stats_tasks_profit": "%1$d was earned on chores this week, and you have performed %2$d of your chores!",
   "bot_stats_goal_amount_left": "You have %1$d left until the next goal!",
   "bot_stats_next_bonus": "Next savings bonus comes in %1$d days and is worth %2$d. Here's how it is calculated  %3$d * %4$d = %5$d",
   "bot_stats_next_allowance": "You have %1$d in the piggy bank and %2$d in the next weekly rate",
