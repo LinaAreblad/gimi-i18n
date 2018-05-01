@@ -1210,5 +1210,11 @@
   "kid_connected_parent": "PLZ_TRANSLATE you and %1$d are now connected",
   "set_interest_descr": "PLZ_TRANSLATE som beräknas på hur mycket som finns sparat",
   "payday_circle_empty_state_title": "PLZ_TRANSLATE No money in sight...",
-  "explainer_video_tutorial": "PLZ_TRANSLATE explainer video"
+  "explainer_video_tutorial": "PLZ_TRANSLATE explainer video",
+  "future_interest_help_header": "PLZ_TRANSLATE Ränta, vad är det?",
+  "future_interest_help_desc": "PLZ_TRANSLATE Siffran som du ser här visar hur mycket bonus du får för att du sparar pengar. Ju mer pengar du har i molnet desto mer ränta får du som bonus",
+  "future_allowance_help_header": "PLZ_TRANSLATE %1$d, vad är det?",
+  "future_allowance_help_desc": "PLZ_TRANSLATE Siffran som du ser här visar hur mycket du har i vecko- eller månadspeng. Pengarna kommer antingen en gån gi veckan eller månaden",
+  "chore_transaction_help_header": "PLZ_TRANSLATE Uppgifter, vad är det?",
+  "chore_transaction_help_desc": "PLZ_TRANSLATE Siffran du ser här visar hur mycket du tjänat på de uppgifter som du gjort under veckan eller månaden."
 }
