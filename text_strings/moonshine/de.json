@@ -261,7 +261,7 @@
   "general_the_cloud": "Cloud",
   "general_gimi_card": "Gimi Karte",
   "general_notifications": "Benachrichtigungen",
-  "general_overview": "Überblick, "
+  "general_overview": "Überblick",
   "choose_monthly_allowance": "Wähle monatliches Taschengeld",
   "choose_weekly_allowance": "Wähle wöchentliches Taschengeld",
   "choose_monthly_interest": "Wähle monatliche Zinsrate",
@@ -286,7 +286,7 @@
   "general_new": "neu",
   "general_old": "alt",
   "general_older": "älter",
-  "question_email_kid": "Möchtest Du eine E-Mail Adresse für  %1$d hinzufügen?"
+  "question_email_kid": "Möchtest Du eine E-Mail Adresse für  %1$d hinzufügen?",
   "question_birthday_kid": "Wie alt bist Du?",
   "general_pluralize": "s",
   "question_day_of_week": "Welcher Wochentag?",
@@ -353,7 +353,7 @@
   "general_requested": "angefordert",
   "general_message": "Nachricht",
   "general_mega_error": "großer Fehler",
-  "camera_mega_error_description": "Gimi benötigt Zugriff auf Deine Kamera. Gehe in Deine Einstellungen, um das zu bearbeiten., "
+  "camera_mega_error_description": "Gimi benötigt Zugriff auf Deine Kamera. Gehe in Deine Einstellungen, um das zu bearbeiten.",
   "general_go_to_settings": "Gehe zu den Einstellungen",
   "edit_dream": "Füge Träume hinzu",
   "add_dream": "Von was träumst Du?",
@@ -475,7 +475,7 @@
   "bot_stats_bank": "Die Differenz in Deiner Cloud beträgt %1$d seit letztem Monat",
   "bot_stats_tasks_profit": "%1$d wurde durch Arbeiten eingenommen diese Woche, und Du hast %2$d Deiner Aufgaben erledigt!",
   "bot_stats_goal_amount_left": "Du hast noch %1$d verbleibend bis zu Deinem nächsten Ziel!",
-  "bot_stats_next_bonus": "Der nächste Sparbonus kommt in %1$d und ist %2$d wert. So wird er berechnet %3$d * %4$d = %5$d, "
+  "bot_stats_next_bonus": "Der nächste Sparbonus kommt in %1$d und ist %2$d wert. So wird er berechnet %3$d * %4$d = %5$d",
   "bot_stats_next_allowance": "Du hast %1$d im Sparschwein und %2$d bekommst Du in der nächsten wöchentlichen Rate",
   "bot_stats_next_allowance_days": "Du wirst Dein nächstes wöchentliches Taschengeld in %1$d Tagen bekommen",
   "bot_stats_compare": "Wusstet Du, dass das Geld in der Cloud so viel Wert ist wie %1$d Cheeseburger, %2$d Monate bei Spotify und %3$d Pullover?",
@@ -494,7 +494,7 @@
   "secure_and_safe_card": "Sicherer und einfacher Umgang mit Geld",
   "store_and_online_card": "Kann im Geschäft und online genutzt werden. Dein Kind lernt mit Geld umzugehen, Du behälst die Kontrolle.",
   "alt_card_price": "oder %1$d / Monat",
-  "card_price_year": " %1$d / Jahr, "
+  "card_price_year": " %1$d / Jahr",
   "card_auto_transfers": "Dein Kind kann das Saldo sehen, Du kannst die Einkäufe sehen. Taschengeld wird automatisch überwiesen.",
   "one_card_savings_accoount": "eine Karte und ein Sparkonto mit Gimi verbunden…",
   "card_no_bank_papers_letters": "Werde Papiere, Briefe und die Bank los!",
@@ -590,7 +590,7 @@
   "who_owes_you_child": "Wer ist Dir etwas schuldig?",
   "order_the_card_title": "Bestelle die Karte",
   "can_pause_and_return_to_order_card_process": "Du kannst pausieren und zurückkehren um fortzufahren",
-  "read_through_good_to_know": "lies \gut"
+  "read_through_good_to_know": "lies \gut",
   "approve_user_policy": "Genehmige Benutzerbedinungen",
   "children_and_children_info": "Aufgaben des Kindes & der Kinder",
   "verify_your_identity": "Verifiziere Deine Identität",
@@ -668,7 +668,7 @@
   "your_personal_id_number": "Deine persönliche Identifikationsnummer",
   "reason_to_ask_for_personal_id": "Damit wir Zugriff auf Deine Informationen haben",
   "why_do_we_ask_for_this": "Warum fragen wir danach? 🤔",
-  "open_the_app": "1. Öffne die Gimi App"
+  "open_the_app": "1. Öffne die Gimi App",
   "qr_code_parent_connect_instruction": "2. Gehe in Dein Profil, Wähle Meine Kontakte und dann Einladung. Wähle QR Scannen",
   "scan_the_qr": "3. Scanne den QR Code",
   "qr_scan_parent_instructions": "2. Gehe in Dein Profil, Wähle Meine Kontakte und dann Einladung. Wähle Code zeigen",
@@ -681,7 +681,7 @@
   "enable_push": "aktiviere Push-Benachrichtigungen",
   "convert_cloud": "konvertiere Cloud",
   "transfer_to_card": "überweise auf Karte",
-  "question_amount_to_transfer": "Wie viel möchtest Du überweisen?"
+  "question_amount_to_transfer": "Wie viel möchtest Du überweisen?",
   "convert_cloud_to_real_money_description": "Setze Deine Schulden auf Null und zahle echtes Geld auf das neu geschaffene Sparkonto.",
   "general_transfer_money": "überweise Geld",
   "transfer_now": "überweise jetzt",
@@ -697,7 +697,7 @@
   "payment_option_credit_card": "Kreditkarte",
   "mastercard_debit_card": "Mastercard Bankkarte",
   "visa_debit_card": "Visa Bankkarte",
-  "payment_card_select_title": "Welche Art von Karte hast Du?"
+  "payment_card_select_title": "Welche Art von Karte hast Du?",
   "payment_card_select_description": "Im nächsten Schritt wirst Du die Kartendetails eingeben.",
   "general_instructions": "Anweisungen",
   "we_must_verify_your_identity": "Wir müssen Deine Identität verifizieren",
@@ -757,7 +757,7 @@
   "general_add_something": "hinzufügen",
   "add_dream_title": "Name Deines Traums",
   "new_notifications": "Benachrichtigungen",
-  "lock_down": "SPERRUNG"
+  "lock_down": "SPERRUNG",
   "lock_down_message": "Deine Premium-Gebühr wurde noch nicht bezahlt. Um an die App und an Ihr Geld zu gelangen, erinnere Deine Eltern daran, zu zahlen.",
   "send_reminder": "sende Erinnerung",
   "monthly_fee_for_gimi_premium": "monatliche Rate für Gimi Premium",
@@ -806,7 +806,7 @@
   "which_bank_do_you_have_bankid": "Welcher Bank gehört Deine BankID an?",
   "create_your_own": "kreiere Deine eigene",
   "name_verification_title": "Ist das Dein Name?",
-  "name_verification_desc": ""
+  "name_verification_desc": "",
   "general_full_name": "vollständiger Name",
   "question_name_not_correct": "Ist der Name nicht richtig?",
   "question_address_correct": "Ist die Adresse richtig?",
@@ -824,11 +824,11 @@
   "general_monthly_fee": "monatliche Gebühr",
   "general_gimi": "Gimi",
   "upgraded_n_to_premium_title": "Du hast %1$d zu Premium befördert!",
-  "upgraded_n_to_premium_desc": ""
+  "upgraded_n_to_premium_desc": "",
   "card_overview_usp_1_title": "Eine Karte und ein Sparkonto von Gimi!",
   "card_overview_usp_1_desc": "Dein Kind bekommt eine Karte. Du bekommst die Kontrolle. Die Karte funktioniert in Geschäften und online.",
   "card_overview_usp_2_title": "Leichter und einfacher Umgang mit Geld",
-  "card_overview_usp_2_desc": "Das Kind sieht das Gleichgewicht in der App. Das Taschengeld und extra Geld wird direkt auf das Sparkonto übertragen."
+  "card_overview_usp_2_desc": "Das Kind sieht das Gleichgewicht in der App. Das Taschengeld und extra Geld wird direkt auf das Sparkonto übertragen.",
   "card_overview_usp_3_title": "Sicherer und besser als bar.",
   "card_overview_usp_3_desc": "Verlorengegangene Karten können in der App ge- und entsperrt werden.",
   "get_the_card": "Bekomme die Karte",
@@ -968,7 +968,7 @@
   "app_question_title_for_kid_8": "Was kann ich tun, um meinen Traum schneller zu erreichen?",
   "app_question_answer_for_kid_8": "Rezept, wie du deinen Traum erreichen kannst: \n1. Verdiene mehr Geld \n2. Gib weniger Geld aus \n3. Eine Kombination von 1. und 2.",
   "app_question_title_for_kid_9": "Wie gebe ich Geld aus wie ein Profi?",
-  "app_question_answer_for_kid_9": "Wenn wir Geld haben, können wir uns fühlen, als hätten wir Superkräfte. Wenn wir es nicht richtig gebrauchen, kann es viel zu schnell aufgebraucht sein Hier sind einige Tipps, wie Du Geld nur leicht augibst: \n1. Frage Dich selbst, ist das, was Du kaufen möchtest, wichtig für Dich? Wenn nicht, spare Dein Geld für etwas anderes! \n2. Lies die Bewertungen. Wenn viele Menschen mit einem Produkt unzufrieden sind, ist es eine gute Idee, zweimal darüber nachzudenken. \n3. Vergleiche die Preise und finde die billigsten, aber denk daran, dass, wenn es zu gut ist, um wahr zu sein, es oft nicht so gut ist. \n4. Second Hand kaufen. Es ist oft billiger und immer besser für die Umwelt. \n5. Gib kein Geld aus, das du nicht hast: spare statt auszuleihen!, "
+  "app_question_answer_for_kid_9": "Wenn wir Geld haben, können wir uns fühlen, als hätten wir Superkräfte. Wenn wir es nicht richtig gebrauchen, kann es viel zu schnell aufgebraucht sein Hier sind einige Tipps, wie Du Geld nur leicht augibst: \n1. Frage Dich selbst, ist das, was Du kaufen möchtest, wichtig für Dich? Wenn nicht, spare Dein Geld für etwas anderes! \n2. Lies die Bewertungen. Wenn viele Menschen mit einem Produkt unzufrieden sind, ist es eine gute Idee, zweimal darüber nachzudenken. \n3. Vergleiche die Preise und finde die billigsten, aber denk daran, dass, wenn es zu gut ist, um wahr zu sein, es oft nicht so gut ist. \n4. Second Hand kaufen. Es ist oft billiger und immer besser für die Umwelt. \n5. Gib kein Geld aus, das du nicht hast: spare statt auszuleihen!",
   "card_question_title_for_parent_1": "Wie viel Kostet die Gimi Karte?",
   "card_question_answer_for_parent_1": "TBD",
   "card_question_title_for_parent_2": "Was ist der Unterschied zwischen einer normalen Bankkarte un der Gimi Karte?",
