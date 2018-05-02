@@ -597,7 +597,7 @@
   "general_order": "Bestellen",
   "card_good_to_know_title": "Goed om te weten over de kaart",
   "card_good_to_know_limits_title": "Goed om te weten over limieten",
-  "card_good_to_know_limit_desc": "Als veiligheidsmaatregel hebben we limieten ingesteld voor hoeveel kan worden uitgegeven en overgezet naar de kaart. \N\n Maximale dagelijkse uitgaven%1$d \n Maximale storting per dag%2$d\n Maximale stortingen per dag %3$d.",
+  "card_good_to_know_limit_desc": "Als veiligheidsmaatregel hebben we limieten ingesteld voor hoeveel kan worden uitgegeven en overgezet naar de kaart.\nMaximale dagelijkse uitgaven%1$d\nMaximale storting per dag%2$d\nMaximale stortingen per dag %3$d.",
   "card_good_to_know_blocks_title": "Goed om te weten over geblokkeerde winkels en geldautomaten,",
   "card_good_to_know_blocks_desc": "De kaart kan niet bij geldautomaten worden gebruikt, dat zou betekenen dat de volwassene geen controle zou hebben. We hebben ook aankopen in sommige categorie‘n winkels voor uw veiligheid geblokkeerd. Lijst met geblokkeerde winkelcategorieën:",
   "card_good_to_know_savings_title": "Goed om te weten over het spaarboekje en de cloud",
@@ -710,7 +710,6 @@
   "deep_regret": "Diepe spijt",
   "connection_invite_sent": "Uitnodiging verzonden",
   "connection_invite_sent_description": "We sturen je een melding wanneer de uitnodiging is geaccepteerd",
-  "general_ok_nice": "Oke leuk",
   "question_transfer_amount_to_n": "PLZ_CHECK Hoeveel wilt u overmaken naar %1$d?",
   "how_often": "Hoe vaak?",
   "general_daily": "dagelijks",
@@ -1218,5 +1217,6 @@
   "chore_transaction_help_header": "PLZ_TRANSLATE Uppgifter, vad är det?",
   "chore_transaction_help_desc": "PLZ_TRANSLATE Siffran du ser här visar hur mycket du tjänat på de uppgifter som du gjort under veckan eller månaden.",
   "money_goes_to": "PLZ_TRANSLATE Pengarna går till",
-  "next_payday": "PLZ_TRANSLATE Next payday"
+  "next_payday": "PLZ_TRANSLATE Next payday",
+  "money_goes_to": "PLZ_TRANSLATE Pengarna går till"
 }

@@ -710,7 +710,6 @@
   "deep_regret": "Deep regret",
   "connection_invite_sent": "Invite sent",
   "connection_invite_sent_description": "We'll send you a notification when the invite has been accepted",
-  "general_ok_nice": "OK nice",
   "question_transfer_amount_to_n": "How much do you want to transfer to %1$d?",
   "how_often": "How often?",
   "general_daily": "daily",
@@ -1218,5 +1217,6 @@
   "chore_transaction_help_header": "PLZ_TRANSLATE Uppgifter, vad är det?",
   "chore_transaction_help_desc": "PLZ_TRANSLATE Siffran du ser här visar hur mycket du tjänat på de uppgifter som du gjort under veckan eller månaden.",
   "money_goes_to": "PLZ_TRANSLATE Pengarna går till",
-  "next_payday": "PLZ_TRANSLATE Next payday"
+  "next_payday": "PLZ_TRANSLATE Next payday",
+  "money_goes_to": "PLZ_TRANSLATE Pengarna går till"
 }
