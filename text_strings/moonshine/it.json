@@ -1217,5 +1217,6 @@
   "future_allowance_help_desc": "PLZ_TRANSLATE Siffran som du ser här visar hur mycket du har i vecko- eller månadspeng. Pengarna kommer antingen en gån gi veckan eller månaden",
   "chore_transaction_help_header": "PLZ_TRANSLATE Uppgifter, vad är det?",
   "chore_transaction_help_desc": "PLZ_TRANSLATE Siffran du ser här visar hur mycket du tjänat på de uppgifter som du gjort under veckan eller månaden.",
-  "money_goes_to": "PLZ_TRANSLATE Pengarna går till"
+  "money_goes_to": "PLZ_TRANSLATE Pengarna går till",
+  "next_payday": "PLZ_TRANSLATE Next payday"
 }
