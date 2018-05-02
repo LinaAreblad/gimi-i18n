@@ -382,7 +382,7 @@
   "require_proof": "kuvatodiste",
   "general_auto_approve": "Hyväksytty automaattisesti",
   "general_suggest_task": "ehdota askare",
-  "general_and": "ja, 
+  "general_and": "ja",
   "general_chore_created": "askare luotu!",
   "chore_created_description": "olet luonut askareen",
   "general_oops": "Hupsista",
@@ -398,7 +398,7 @@
   "type_sent_code": "syötä koodi",
   "question_didnt_get_code": "etkö saanut koodia?",
   "contact_support": "tuki",
-  "question_who_is_chore_for": "kenelle on tämä askare?
+  "question_who_is_chore_for": "kenelle on tämä askare?",
   "of_your_monthtly_money": "sinun \nkuukausirahastasi",
   "general_add_chore": "lisää askare",
   "soon_card_is_here": "korttisi on pian perillä!",
@@ -469,7 +469,7 @@
   "bot_question_profile_pic": "Et ole vielä lisännyt profiilikuvaa. Miltä näytät? Anna minulle selfie!",
   "bot_compliment_tasks_completed": "Oletpa tehokas! Vau! Suoritit kaikki tämän viikon tehtävät!",
   "bot_question_latest_task": "Oletko nähnyt viimeisimmän askareen, %1$d? Voit saada siitä %2$d. Haluatko aloittaa?",
-  "bot_question_rate_app": "Mistä pidät tässä sovelluksessa? Miten olisi nopea arvio?m
+  "bot_question_rate_app": "Mistä pidät tässä sovelluksessa? Miten olisi nopea arvio?",
   "bot_question_goal_map": "Olet mennyt eteenpäin säästötavoitteesi kanssa… Haluatko kiivetä ylös tavoitekartalla?",
   "bot_message_error": "Hupsis! Jokin meni pieleen",
   "bot_stats_bank": "Pilvesi ero viime kuukaudesta on %1$d",
