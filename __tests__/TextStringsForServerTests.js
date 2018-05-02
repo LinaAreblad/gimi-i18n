@@ -35,7 +35,30 @@ textStringsTypes.forEach(textStringsType => {
         })
         if (Object.keys(errorMessages).length > 0) console.warn(JSON.stringify(errorMessages, undefined, 2))
       })
-
+      it('should not have _parent when having _child', () => {
+        var errorArrayParentChild = []
+        var objectKeys = Object.keys(textStrings[textStringsType][lang])
+        objectKeys.forEach((key) => {
+          var currentLangKey = key
+          if (currentLangKey && currentLangKey.includes('_parent')) {
+            var currentLangKeyReverse = currentLangKey.replace('_parent', '_child')
+            if (!objectKeys.includes(currentLangKeyReverse))
+              errorArrayParentChild.push({error: 'key is missing child version'})
+          }
+        })
+      })
+      it('should not have _child when having _parent', () => {
+        var errorArrayParentChild = []
+        var objectKeys = Object.keys(textStrings[textStringsType][lang])
+        objectKeys.forEach((key) => {
+          var currentLangKey = key
+          if (currentLangKey && currentLangKey.includes('_child')) {
+            var currentLangKeyReverse = currentLangKey.replace('_child', '_parent')
+            if (!objectKeys.includes(currentLangKeyReverse))
+              errorArrayParentChild.push({error: 'key is missing parent version'})
+          }
+        })
+      })
       xit('all task templates should not exceed 15 chars', () => {
         checkTemplateLenght(textStrings[textStringsType][lang], lang)
       })
