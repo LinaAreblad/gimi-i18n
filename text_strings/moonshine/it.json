@@ -563,7 +563,7 @@
   "question_deposit_permission_view_only": "prima di poter effettuare depositi a %1$d, dobbiamo chiedere alla persona che ha configurato la carta Gimi  per %2$d. Senza permesso vedrai solo le transazioni già completate.\n\nVuoi chiedere il permesso?",
   "without_permission_warning": "Senza permesso potrai vedere solo le transazioni già completate.",
   "general_permission": "permesso",
-  "permission_deposit_permission": "prima di poter effettuare depositi a %1$d, dobbiamo chiedere alla persona che ha creato la carta Gimi  per %2$d. Vuoi chiedere il permesso?,
+  "permission_deposit_permission": "prima di poter effettuare depositi a %1$d, dobbiamo chiedere alla persona che ha creato la carta Gimi  per %2$d. Vuoi chiedere il permesso?",
   "permission_deposit_permission_kids": "prima di poter inviare denaro a %1$d, dobbiamo chiedere alla persona che ha creato la carta Gimi. Vuoi chiedere il permesso?",
   "missing_permissions": "mancano i permessi",
   "read_good_to_know": "Leggi 'Buono a sapersi'",
