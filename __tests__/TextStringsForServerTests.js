@@ -43,7 +43,7 @@ textStringsTypes.forEach(textStringsType => {
           if (currentLangKey && currentLangKey.includes('_parent')) {
             var currentLangKeyReverse = currentLangKey.replace('_parent', '_child')
             if (!objectKeys.includes(currentLangKeyReverse))
-              errorArrayParentChild.push({error: 'key is missing child version'})
+              errorArrayParentChild.push({error: `${key} is missing child version`})
           }
         })
       })
@@ -55,7 +55,7 @@ textStringsTypes.forEach(textStringsType => {
           if (currentLangKey && currentLangKey.includes('_child')) {
             var currentLangKeyReverse = currentLangKey.replace('_child', '_parent')
             if (!objectKeys.includes(currentLangKeyReverse))
-              errorArrayParentChild.push({error: 'key is missing parent version'})
+              errorArrayParentChild.push({error: `${key} is missing parent version`})
           }
         })
       })
