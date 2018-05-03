@@ -265,6 +265,7 @@
   "choose_monthly_allowance": "velg månedspenger",
   "choose_weekly_allowance": "velg ukepenger",
   "choose_monthly_interest": "velg månedsvis sparerente",
+  "choose_weekly_interest": "PLZ_TRANSLATE choose weekly interest rate",
   "allowance_recommendation": "anbefalt: %1$d",
   "interest_recommendation": "anbefalt: %1$d%",
   "general_home": "Kontoer",

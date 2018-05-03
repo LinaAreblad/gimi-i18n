@@ -265,6 +265,7 @@
   "choose_monthly_allowance": "seleccionar dinero de bolsillo mensual",
   "choose_weekly_allowance": "seleccionar dinero de bolsillo semanal",
   "choose_monthly_interest": "seleccionar tasa de interés mensual",
+  "choose_weekly_interest": "PLZ_TRANSLATE choose weekly interest rate",
   "allowance_recommendation": "recomendado: %1$d",
   "interest_recommendation": "recomendado: %1$d%",
   "general_home": "Cuentas",

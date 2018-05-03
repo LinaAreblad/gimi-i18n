@@ -265,6 +265,7 @@
   "choose_monthly_allowance": "choisir l'allocation mensuelle d'argent de poche",
   "choose_weekly_allowance": "choisir l'allocation hebdomadaire d'argent de poche",
   "choose_monthly_interest": "choisir le taux d'intérêt mensuel",
+  "choose_weekly_interest": "PLZ_TRANSLATE choose weekly interest rate",
   "allowance_recommendation": "recommendé: %1$d",
   "interest_recommendation": "recommendé: %1$d%",
   "general_home": "Comptes",

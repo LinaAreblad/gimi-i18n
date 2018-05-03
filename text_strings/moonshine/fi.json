@@ -265,6 +265,7 @@
   "choose_monthly_allowance": "valitse kuukausiraha",
   "choose_weekly_allowance": "valitse viikkoraha",
   "choose_monthly_interest": "valitse kuukausikorko",
+  "choose_weekly_interest": "PLZ_TRANSLATE choose weekly interest rate",
   "allowance_recommendation": "suositeltu: %1$d",
   "interest_recommendation": "suositeltu: %1$d%",
   "general_home": "Tilit",

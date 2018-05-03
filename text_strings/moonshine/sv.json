@@ -265,6 +265,7 @@
   "choose_monthly_allowance": "välj månadspeng",
   "choose_weekly_allowance": "välj veckopeng",
   "choose_monthly_interest": "välj månadsvis ränta",
+  "choose_weekly_interest": "välj veckovis ränta",
   "allowance_recommendation": "rekommenderad: %1$d",
   "interest_recommendation": "rekommenderad: %1$d%",
   "general_home": "Konton",

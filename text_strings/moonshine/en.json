@@ -265,6 +265,7 @@
   "choose_monthly_allowance": "choose monthly pocket money",
   "choose_weekly_allowance": "choose weekly pocket money",
   "choose_monthly_interest": "choose monthly interest rate",
+  "choose_weekly_interest": "choose weekly interest rate",
   "allowance_recommendation": "recommended: %1$d",
   "interest_recommendation": "recommended: %1$d%",
   "general_home": "Accounts",
