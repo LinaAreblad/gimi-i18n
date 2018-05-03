@@ -1219,6 +1219,7 @@
   "chore_transaction_help_desc": "PLZ_CHECK The number you see here shows how much you earned on the chores you compleated during the week or month.",
   "money_goes_to": "PLZ_CHECK The money goes to",
   "next_payday": "Next payday",
-  "earned_this_period": "PLZ_CHECK Earned this week/month (%1$d)",
-  "general_in_total": "PLZ_CHECK in total"
+  "general_in_total": "PLZ_CHECK in total",
+  "earned_this_week": "PLZ_CHECK Earned this week",
+  "earned_this_month": "PLZ_CHECK Earned this month"
 }
