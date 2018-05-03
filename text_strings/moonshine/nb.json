@@ -1218,5 +1218,7 @@
   "chore_transaction_help_header": "Oppgaver, hva er det?",
   "chore_transaction_help_desc": "Sifferet du ser her viser hvor mye du har tjent på de oppgaver som du har gjort denne uken eller måneden.",
   "money_goes_to": "Pengene går til",
-  "next_payday": "PLZ_CHECK Neste Payday"
+  "next_payday": "PLZ_CHECK Neste Payday",
+  "earned_this_period": "PLZ_TRANSLATE PLZ_CHECK Earned this week/month (%1$d)",
+  "general_in_total": "PLZ_TRANSLATE PLZ_CHECK in total"
 }
