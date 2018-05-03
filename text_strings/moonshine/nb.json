@@ -1221,5 +1221,6 @@
   "next_payday": "PLZ_CHECK Neste Payday",
   "general_in_total": "PLZ_TRANSLATE PLZ_CHECK in total",
   "earned_this_week": "PLZ_TRANSLATE Earned this week",
-  "earned_this_month": "PLZ_TRANSLATE Earned this month"
+  "earned_this_month": "PLZ_TRANSLATE Earned this month",
+  "reboarding_desc": "PLZ_TRANSLATE You will continue where you left off. If you want to start over, go to your settings and delete your account or reset your data."
 }

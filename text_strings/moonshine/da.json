@@ -1219,6 +1219,8 @@
   "chore_transaction_help_desc": "PLZ_TRANSLATE Siffran du ser här visar hur mycket du tjänat på de uppgifter som du gjort under veckan eller månaden.",
   "money_goes_to": "PLZ_TRANSLATE Pengarna går till",
   "next_payday": "PLZ_TRANSLATE Next payday",
-  "interest_this_week": "PLZ_TRANSLATE interest this week",
-  "interest_this_month": "PLZ_TRANSLATE interest this month"
+  "general_in_total": "PLZ_TRANSLATE PLZ_CHECK in total",
+  "earned_this_week": "PLZ_TRANSLATE PLZ_CHECK Earned this week",
+  "earned_this_month": "PLZ_TRANSLATE PLZ_CHECK Earned this month",
+  "reboarding_desc": "PLZ_TRANSLATE You will continue where you left off. If you want to start over, go to your settings and delete your account or reset your data."
 }
