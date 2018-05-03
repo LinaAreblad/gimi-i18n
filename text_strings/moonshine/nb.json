@@ -1184,7 +1184,7 @@
   "revoke_permission_notifications": "Er du sikker på at du vil ta bort tillatelse for varlsing",
   "invitation_error": "Connection problem...",
   "invitation_error_mesasge": "We could not connect you to %1$d",
-  "my_kids": "mine barn",
+  "my_kids": "barn",
   "general_contacts": "kontakter",
   "kid_allowance_month_error": "Ikke et valg. %1$d har allerede ukepenger fra noen annen.",
   "word_from_ceo_header": "la la la la",
