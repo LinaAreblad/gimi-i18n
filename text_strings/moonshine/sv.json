@@ -1218,7 +1218,5 @@
   "chore_transaction_help_header": "Uppgifter, vad är det?",
   "chore_transaction_help_desc": "Siffran du ser här visar hur mycket du tjänat på de uppgifter som du gjort under veckan eller månaden.",
   "money_goes_to": "Pengarna går till",
-  "next_payday": "Nästa payday",
-  "interest_this_week": "ränta",
-  "interest_this_month": "ränta"
+  "next_payday": "Nästa payday"
 }

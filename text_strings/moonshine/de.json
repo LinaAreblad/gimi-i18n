@@ -1218,7 +1218,5 @@
   "chore_transaction_help_header": "PLZ_TRANSLATE Chores, what is it?",
   "chore_transaction_help_desc": "PLZ_TRANSLATE The number you see here shows how much you earned on the chores you compleated during the week or month.",
   "money_goes_to": "PLZ_TRANSLATE The money goes to",
-  "next_payday": "PLZ_TRANSLATE Next payday",
-  "interest_this_week": "PLZ_TRANSLATE interest this week",
-  "interest_this_month": "PLZ_TRANSLATE interest this month"
+  "next_payday": "PLZ_TRANSLATE Next payday"
 }
