@@ -11,7 +11,7 @@
   "push_assignment_created": "Hooray! You've been assigned a new task",
   "push_assignment_active_again": "Task {assignment.task.title} is available again. First come, first served",
   "push_assignment_done": "{assignment.child.name} just performed the task {assignment.task.title}",
-  "push_assignment_done_by_other": "You weren't quick enough! {child.name} finished {assignment.task.title} before you",
+  "push_assignment_done_by_other": "You weren't quick enough! {assignment.task.shared_task_completed_by} finished {assignment.task.title} before you",
   "push_assignment_rejected": "Task {assignment.task.title} was rejected. Try again",
   "push_assignment_approved": "Congratulations! {assignment.approved_by.name} has just approved task {assignment.task.title}! ({assignment.str_value})",
   "push_insertion_by_other": "Lovely! {transaction.created_by.name} added {transaction.str_value} into your piggy bank",

@@ -11,7 +11,7 @@
   "push_assignment_created": "PLZ_TRANSLATE Yihaa! Du har fått en ny uppgift",
   "push_assignment_active_again": "PLZ_TRANSLATE Uppgiften {assignment.task.title} är tillgänglig igen. Först till kvarn",
   "push_assignment_done": "PLZ_TRANSLATE {assignment.child.name} utförde precis {assignment.task.title}",
-  "push_assignment_done_by_other": "PLZ_TRANSLATE Nu var du inte snabb nog! {child.name} utförde {assignment.task.title} innan dig",
+  "push_assignment_done_by_other": "PLZ_TRANSLATE Nu var du inte snabb nog! {assignment.task.shared_task_completed_by} utförde {assignment.task.title} innan dig",
   "push_assignment_rejected": "PLZ_TRANSLATE Uppgiften {assignment.task.title} blev tyvärr inte godkänd. Försök igen",
   "push_assignment_approved": "PLZ_TRANSLATE Grattis! {assignment.approved_by.name} godkände precis {assignment.task.title} ({assignment.str_value})",
   "push_insertion_by_other": "PLZ_TRANSLATE Najs! {transaction.created_by.name} satte precis in {transaction.str_value} i din spargris",

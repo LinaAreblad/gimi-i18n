@@ -11,7 +11,7 @@
   "push_assignment_created": "Hai un nuovo compito!Evviva",
   "push_assignment_active_again": "Il compito di {assignment.task.title} è ora disponibile. Primo arrivato, primo servito",
   "push_assignment_done": "{assignment.child.name} ha eseguito il compito di {assignment.task.title}",
-  "push_assignment_done_by_other": "Non sei stato abbastanza veloce! {child.name} ha finito il compito di {assignment.task.title} prima di te",
+  "push_assignment_done_by_other": "Non sei stato abbastanza veloce! {assignment.task.shared_task_completed_by} ha finito il compito di {assignment.task.title} prima di te",
   "push_assignment_rejected": "Il compito di {assignment.task.title} è stato rifiutato. Provaci ancora",
   "push_assignment_approved": "Congratulazioni! {assignment.approved_by.name} ha appena approvato il compito di {assignment.task.title}! ({assignment.str_value})",
   "push_insertion_by_other": "Bello! {transaction.created_by.name} ha aggiunto {transaction.str_value} al salvadanaio",

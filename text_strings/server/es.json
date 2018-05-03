@@ -11,7 +11,7 @@
   "push_assignment_created": "¡Yupiii! ¡Tiene una nueva tarea",
   "push_assignment_active_again": "La tarea {assignment.task.title} está disponible de nuevo. ¡Primero que llega, primero que se atiende",
   "push_assignment_done": "¡{assignment.child.name} ejecutó en este momento {assignment.task.title}",
-  "push_assignment_done_by_other": "¡No fue suficientemente rápido! {child.name} terminó {assignment.task.title} antes que usted",
+  "push_assignment_done_by_other": "¡No fue suficientemente rápido! {assignment.task.shared_task_completed_by} terminó {assignment.task.title} antes que usted",
   "push_assignment_rejected": "La tarea {assignment.task.title} fue rechazada. ¡Intentálo de nuevo",
   "push_assignment_approved": "¡Felicitaciones! ¡{assignment.approved_by.name} acaba de aprobar la tarea {assignment.task.title}! ({assignment.str_value})",
   "push_insertion_by_other": "¡Maravilloso! {transaction.created_by.name} agregó {transaction.str_value} en su hucha",

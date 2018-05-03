@@ -11,7 +11,7 @@
   "push_assignment_created": "Youhouu! Vous avez une nouvelle tâche",
   "push_assignment_active_again": "La tâche {assignment.task.title} est encore une fois disponible. Premier arrivé, premier servi",
   "push_assignment_done": "{assignment.child.name} a maintenant exécuté la tâche {assignment.task.title}",
-  "push_assignment_done_by_other": "Vous n'avez pas été assez rapide! {child.name} a terminé la tâche {assignment.task.title} avant vous",
+  "push_assignment_done_by_other": "Vous n'avez pas été assez rapide! {assignment.task.shared_task_completed_by} a terminé la tâche {assignment.task.title} avant vous",
   "push_assignment_rejected": "La tâche {assignment.task.title} a été refusée. Veuillez réessayer",
   "push_assignment_approved": "Congratulations! {assignment.approved_by.name} a approuvé {assignment.task.title} ({assignment.str_value})",
   "push_insertion_by_other": "Super! {transaction.created_by.name} a ajouté {transaction.str_value} dans votre tirelire",

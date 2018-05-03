@@ -11,7 +11,7 @@
   "push_assignment_created": "Joepie! Je kreeg een nieuwe taak",
   "push_assignment_active_again": "Taak {assignment.task.title} is weer beschikbaar. Kom eens kijken!",
   "push_assignment_done": "{assignment.child.name} heeft nu {assignment.task.title} voltooid",
-  "push_assignment_done_by_other": "Je was niet snel genoeg! {child.name} voerde {assignment.task.title} al uit",
+  "push_assignment_done_by_other": "Je was niet snel genoeg! {assignment.task.shared_task_completed_by} voerde {assignment.task.title} al uit",
   "push_assignment_rejected": "Taak {assignment.task.title} werd geweigerd. Probeer eens opnieuw",
   "push_assignment_approved": "Proficiat! {assignment.approved_by.name} heeft de taak {assignment.task.title} toegevoegd ({assignment.str_value})",
   "push_insertion_by_other": "Geweldig! {transaction.created_by.name} voegde {transaction.str_value} toe in je spaarpot",

@@ -11,7 +11,7 @@
   "push_assignment_created": "Yihaa! Du har fået en ny opgave",
   "push_assignment_active_again": "Opgaven {assignment.task.title} er tilgængelig igen. Først til mølle",
   "push_assignment_done": "{assignment.child.name} har lige udført {assignment.task.title}",
-  "push_assignment_done_by_other": "Du var ikke hurtig nok! {child.name} udførte {assignment.task.title} inden dig",
+  "push_assignment_done_by_other": "Du var ikke hurtig nok! {assignment.task.shared_task_completed_by} udførte {assignment.task.title} inden dig",
   "push_assignment_rejected": "Opgaven {assignment.task.title} blev desværre ikke godkendt. Prøv igen",
   "push_assignment_approved": "Tillykke! {assignment.approved_by.name} har lige godkendt {assignment.task.title} ({assignment.str_value})",
   "push_insertion_by_other": "Nice! {transaction.created_by.name} har lige sat {transaction.str_value} ind på din sparegris",
