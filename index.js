@@ -117,7 +117,7 @@ export let getRegions = () => Regions
 export let getCities = () => Cities
 export let getCountries = () => CountryCodes
 export let getCountry = (countryCode: string) => CountryCodes.find(country => country.code === countryCode)
-export let getPhoneNumberPrefix = (countryCode: string) => parseInt(countryCodes2PhoneNumberPrefixes[countryCode.toUpperCase()])
+export let getPhoneNumberPrefix = (country: string) => parseInt(countryCodes2PhoneNumberPrefixes[country.toUpperCase()])
 export let getCountryCodeFromLocale = (locale: string) => locale.slice(-2)
 export let getTimezones = () => Timezones
 export let getLangugageCodes = () => LanguageCodes.filter(languageCode => supportedLanguageCodes.indexOf(languageCode.code) !== -1)
