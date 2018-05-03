@@ -704,7 +704,7 @@
   "we_must_verify_your_identity": "Meidän täytyy varmistaa henkilöllisyytesi",
   "instantor_verify_identity_description": "Tämän vuoksi teemme yhteistyötä Instantorin kanssa, joka käyttää BankID:tä. Sinun tulee kirjautua sisään käyttäen BankID:tä.",
   "read_why_identifying_this_way": "<b>Tässä</b> voit saada lisätietoja siitä, miksi meidän täytyy tehdä tämä.",
-  "i_approve_instantor_policy": "Minä täten hyväksyn Instantorin <b>Käyttäjäehdot</b> ja sen, että tietojani kerätään ja käytetään <b>Instantorin yhtenäisyyskäytännön</b> mukaisesti",
+  "i_approve_instantor_policy": "Minä täten hyväksyn Instantorin <b>Käyttöehdot</b> ja sen, että tietojani kerätään ja käytetään <b>Instantorin yhtenäisyyskäytännön</b> mukaisesti",
   "one_time_only": "Vain kerran",
   "transfers_only_one_way_warning_title": "Siirtoja voi tehdä vain yksisuuntaisesti",
   "transfers_only_one_way_warning_desc": "Rahaa ei voi siirtää kortista takaisin säästötilille. Se on kulutusta varten, joten varmista, ettet siirrä liikaa!",
