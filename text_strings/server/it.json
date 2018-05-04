@@ -285,5 +285,6 @@
   "event_you_have_reached_a_dream_parent": "PLZ_TRANSLATE {goal.child.nickname} has reached its dream",
   "event_you_have_reached_a_dream_child": "PLZ_TRANSLATE You have reached your dream",
   "event_done_with_chore_parent": "PLZ_TRANSLATE {assignment.child.nickname} is done with {assignment.task.title}",
-  "event_done_with_chore_child": "PLZ_TRANSLATE You are done with {assignment.task.title}"
+  "event_done_with_chore_child": "PLZ_TRANSLATE You are done with {assignment.task.title}",
+  "push_tell_that_your_back": "PLZ_TRANSLATE {user.nickname} is back in the app and wants to get going again"
 }
