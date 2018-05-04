@@ -519,7 +519,7 @@
   "data_tracking_assignment_threshold_4_parent": "{child} has used up 100% of the total surf data.",
   "data_tracking_assignment_threshold_4_child": "You have used up 100% of the total surf data!",
   "error_maintenance_title": "Excuse the mess, we are working on it!",
-  "error_maintenance_desc": "Maintenance will soon be finished, and then you can use Gimfi as usual!",
+  "error_maintenance_desc": "Maintenance will soon be finished, and then you can use Gimi as usual!",
   "popover_premium_great": "GREAT!",
   "popover_premium_great_desc": "We will send you an email as soon as you can begin to use Premium Powers",
   "premium_popover_not_ready_title": "Unfortunately Premium Powers are not yet ready",
