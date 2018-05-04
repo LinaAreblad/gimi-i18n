@@ -1204,7 +1204,7 @@
   "kid_connected_parent": "PLZ_CHECK you and %1$d are now connected",
   "set_interest_descr": "PLZ_CHECK which is calculated on how much is saved",
   "payday_circle_empty_state_title": "PLZ_CHECK No money in sight...",
-  "explainer_video_tutorial": "PLZ_CHECK The Gimi film",
+  "explainer_video_tutorial": "About Gimi",
   "future_interest_help_header": "PLZ_CHECK Interest, what is it?",
   "future_interest_help_desc": "PLZ_CHECK The figure you see here shows you how much bonus you receive for saving money. The more money you have in the Cloud, the more interest you get as a bonus",
   "future_allowance_help_header": "PLZ_CHECK %1$d, what is it?",
