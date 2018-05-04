@@ -292,7 +292,7 @@
   "general_pluralize": "s",
   "question_day_of_week": "vilken dag i veckan?",
   "question_day_of_month": "vilken dag i månaden?",
-  "question_birthday_parent": "när är %1$d född?",
+  "question_birthday_parent": "Hur gammal är %1$d?",
   "settings_for": "inställningar för %1$d",
   "permissions_camera": "tillgång till kamera",
   "permissions_photo": "tillgång till galleri",
