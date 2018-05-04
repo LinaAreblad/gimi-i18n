@@ -2,6 +2,13 @@
 import sv from './text_strings/moonshine/sv.json'
 import en from './text_strings/moonshine/en.json'
 import no from './text_strings/moonshine/nb.json'
+import da from './text_strings/moonshine/da.json'
+import fr from './text_strings/moonshine/fr.json'
+import nl from './text_strings/moonshine/nl.json'
+import fi from './text_strings/moonshine/fi.json'
+import it from './text_strings/moonshine/it.json'
+import es from './text_strings/moonshine/es.json'
+import de from './text_strings/moonshine/de.json'
 import _default from './text_strings/client/default.json'
 
 // calendar
@@ -67,16 +74,13 @@ export let getTextStrings = (lang: string) => {
     case 'sv' : return {..._default, ...sv} // sweden
     case 'nb' :
     case 'nn' : return {..._default, ...no} // norway
-    case 'da' : return {..._default, ...en} // danish
-    case 'fr' : return {..._default, ...en} // france
-    case 'nl' : return {..._default, ...en} // Netherlands
-    case 'be' : return {..._default, ...en} // belgian
-    case 'fi' : return {..._default, ...en} // finish
-    case 'it' : return {..._default, ...en} // italian
-    case 'es' : return {..._default, ...en} // spanish
-    case 'de' : return {..._default, ...en} // german
-    case 'is' : return {..._default, ...en} // island
-    case 'et' : return {..._default, ...en} // Estonia
+    case 'da' : return {..._default, ...da} // danish
+    case 'fr' : return {..._default, ...fr} // france
+    case 'nl' : return {..._default, ...nl} // Netherlands
+    case 'fi' : return {..._default, ...fi} // finish
+    case 'it' : return {..._default, ...it} // italian
+    case 'es' : return {..._default, ...es} // spanish
+    case 'de' : return {..._default, ...de} // german
     default : return {..._default, ...en}
   }
 }
