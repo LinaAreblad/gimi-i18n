@@ -1223,5 +1223,6 @@
   "earned_this_week": "PLZ_TRANSLATE Earned this week",
   "earned_this_month": "PLZ_TRANSLATE Earned this month",
   "reboarding_desc": "PLZ_TRANSLATE You will continue where you left off. If you want to start over, go to your settings and delete your account or reset your data.",
-  "loading_screen_text": "PLZ_TRANSLATE Gimi calling cyperspace..."
+  "loading_screen_text": "PLZ_TRANSLATE Gimi calling cyperspace...",
+  "no_internet_connection": "PLZ_TRANSLATE No internet connection"
 }

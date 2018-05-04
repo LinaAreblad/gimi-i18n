@@ -1223,5 +1223,6 @@
   "earned_this_week": "Tjent denne uge",
   "earned_this_month": "Tjent denne måned",
   "reboarding_desc": "PLZ_TRANSLATE Du vil fortsætte, hvor du slap. Hvis du vil starte om igen, skal du gå til dine indstillinger og slette din konto eller nulstille dine data.",
-  "loading_screen_text": "PLZ_TRANSLATE Gimi calling cyperspace..."
+  "loading_screen_text": "PLZ_TRANSLATE Gimi calling cyperspace...",
+  "no_internet_connection": "PLZ_TRANSLATE No internet connection"
 }
