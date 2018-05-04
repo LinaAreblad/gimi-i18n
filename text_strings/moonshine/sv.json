@@ -1222,5 +1222,6 @@
   "general_in_total": "totalt",
   "earned_this_week": "Tjänat denna vecka",
   "earned_this_month": "Tjänat denna månad",
-  "reboarding_desc": "You will continue where you left off. If you want to start over, go to your settings and delete your account or reset your data."
+  "reboarding_desc": "You will continue where you left off. If you want to start over, go to your settings and delete your account or reset your data.",
+  "loading_screen_text": "Gimi calling cyperspace..."
 }
