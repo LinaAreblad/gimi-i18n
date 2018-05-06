@@ -232,7 +232,7 @@
   "event_requests_for_chore_permission": "Requests for chore permission",
   "event_you_got_permission_to_edit_chores": "You got permission to edit chores",
   "event_you_gave_permission_to_edit_chores": "You gave permission to edit chores",
-  "event_you_got_a_chore_suggestion": "You got a chore suggestion",
+  "event_you_got_a_chore_suggestion": "PLZ_CHECK Suggestion of new chore",
   "event_chore_was_deleted": "{chore} was deleted",
   "event_next_payment_is_added_to_cloud": "Next payment has been added to cloud",
   "event_your_payment_to_cloud": "Your payment to cloud",
