@@ -1231,10 +1231,10 @@
   "example_kid_name_4": "PLZ_CHECK Monika",
   "example_kid_name_5": "PLZ_CHECK Elin",
   "example_kid_name_6": "PLZ_CHECK Tintin",
-  "future_allowance_help_header_parent": "PLZ_CHECK %1$d, what is it?",
-  "future_allowance_help_desc_parent": "PLZ_CHECK The figure you see here shows how much you have in weekly or monthly pocket money. The money comes either once a week or once a month",
-  "chore_transaction_help_header_parent": "PLZ_CHECK Chores, what is it?",
-  "chore_transaction_help_desc_parent": "PLZ_CHECK The number you see here shows how much you earned on the chores you compleated during the week or month.",
-  "future_interest_help_header_parent": "PLZ_CHECK Interest, what is it?",
-  "future_interest_help_desc_parent": "PLZ_CHECK The figure you see here shows you how much bonus you receive for saving money. The more money you have in the Cloud, the more interest you get as a bonus"
+  "future_allowance_help_header_parent": "%1$d, vad är det?",
+  "future_allowance_help_desc_parent": "Siffran du ser här visar hur stor vecko- eller månadspengen är. Det är ett basbelopp som betalas ut utan krav på motprestation.",
+  "chore_transaction_help_header_parent": "Uppgifter, vad är det?",
+  "chore_transaction_help_desc_parent": "Siffran du ser här visar hur mycket ett barn har tjänat på uppgifter hittills under veckan eller månaden.",
+  "future_interest_help_header_parent": "Ränta, vad är det?",
+  "future_interest_help_desc_parent": "Siffran du ser här visar en uppskattning av nästa räntebetalning. Den beräknas på pengarna som sparats i Molnet."
 }
