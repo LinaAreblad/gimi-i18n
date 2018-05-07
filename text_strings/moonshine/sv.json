@@ -1236,5 +1236,6 @@
   "chore_transaction_help_header_parent": "Uppgifter, vad är det?",
   "chore_transaction_help_desc_parent": "Siffran du ser här visar hur mycket ett barn har tjänat på uppgifter hittills under veckan eller månaden.",
   "future_interest_help_header_parent": "Ränta, vad är det?",
-  "future_interest_help_desc_parent": "Siffran du ser här visar en uppskattning av nästa räntebetalning. Den beräknas på pengarna som sparats i Molnet."
+  "future_interest_help_desc_parent": "Siffran du ser här visar en uppskattning av nästa räntebetalning. Den beräknas på pengarna som sparats i Molnet.",
+  "chore_reward": "Belöning"
 }

@@ -1236,5 +1236,6 @@
   "chore_transaction_help_header_parent": "PLZ_CHECK Chores, what is it?",
   "chore_transaction_help_desc_parent": "PLZ_CHECK The number you see here shows how much you earned on the chores you compleated during the week or month.",
   "future_interest_help_header_parent": "PLZ_CHECK Interest, what is it?",
-  "future_interest_help_desc_parent": "PLZ_CHECK The figure you see here shows you how much bonus you receive for saving money. The more money you have in the Cloud, the more interest you get as a bonus"
+  "future_interest_help_desc_parent": "PLZ_CHECK The figure you see here shows you how much bonus you receive for saving money. The more money you have in the Cloud, the more interest you get as a bonus",
+  "chore_reward": "Reward"
 }

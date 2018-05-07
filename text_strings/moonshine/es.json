@@ -1236,5 +1236,6 @@
   "chore_transaction_help_header_parent": "Tareas, ¿qué es eso?",
   "chore_transaction_help_desc_parent": "El número que vez aquí muestra cuánto ganaste con las tareas realizadas durante la semana o durante el mes.",
   "future_interest_help_header_parent": "Interés, ¿qué es eso?",
-  "future_interest_help_desc_parent": "La cifra que ves aquí te muestra cuanto recibes de bono por el dinero ahorrado. Mientras más dinero tengas en la Nube, obtendrás más intereses como bono"
+  "future_interest_help_desc_parent": "La cifra que ves aquí te muestra cuanto recibes de bono por el dinero ahorrado. Mientras más dinero tengas en la Nube, obtendrás más intereses como bono",
+  "chore_reward": "PLZ_TRANSLATE Reward"
 }
