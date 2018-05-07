@@ -1237,5 +1237,6 @@
   "chore_transaction_help_desc_parent": "PLZ_TRANSLATE PLZ_CHECK Figuren du ser her viser hvor mye et barn har tjent fra oppgaver så langt denne uke eller måned.",
   "future_interest_help_header_parent": "PLZ_TRANSLATE PLZ_CHECK Rente, hva er det?",
   "future_interest_help_desc_parent": "PLZ_TRANSLATE PLZ_CHECK Figuren du ser her viser et estimat på neste rentebetalning. Det er beregnet på pengene som er sparet i Skyen.",
-  "chore_reward": "Belønning"
+  "chore_reward": "Belønning",
+  "email_invite_description": "PLZ_TRANSLATE we sent you an email"
 }
