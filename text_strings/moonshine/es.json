@@ -1232,10 +1232,10 @@
   "example_kid_name_5": "Elin",
   "example_kid_name_6": "Tintin",
   "future_allowance_help_header_parent": "%1$d, ¿qué es?",
-  "future_allowance_help_desc_parent": "La cifra que ves aquí te muestra cuanto tienes en dinero de bolsillo mensual o semanal. El dinero llega una vez al mes o una vez a la semana",
+  "future_allowance_help_desc_parent": "PLZ_TRANSLATE The figure you see here shows the weekly or monthly pocket money amount, which is paid out unconditionally",
   "chore_transaction_help_header_parent": "Tareas, ¿qué es eso?",
-  "chore_transaction_help_desc_parent": "El número que vez aquí muestra cuánto ganaste con las tareas realizadas durante la semana o durante el mes.",
+  "chore_transaction_help_desc_parent": "PLZ_TRANSLATE The figure you see here shows how much a child has earned from chores during the week or month.",
   "future_interest_help_header_parent": "Interés, ¿qué es eso?",
-  "future_interest_help_desc_parent": "La cifra que ves aquí te muestra cuanto recibes de bono por el dinero ahorrado. Mientras más dinero tengas en la Nube, obtendrás más intereses como bono",
+  "future_interest_help_desc_parent": "PLZ_TRANSLATE The figure you see here shows an estimate of the next interest payment, which is based on the savings amount in the Cloud.",
   "chore_reward": "PLZ_TRANSLATE Reward"
 }
