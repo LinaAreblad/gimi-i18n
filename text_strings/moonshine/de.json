@@ -737,7 +737,7 @@
   "general_chore_package": "Aufgaben-Paket",
   "general_later": "später",
   "choose_and_define_own_chores_later": "Du kannst Deine eigenen Aufgaben aussuchen und sie später fertigstellen.",
-  "recommendation_based_on_nothing": "Die Empfehlung basiert auf dem Durchschnitt",
+  "recommendation_based_on_nothing": "PLZ_TRANSLATE Our recommendation is based on how much other children in the same age have.",
   "successfull_connection_with_name": "Du hast einen neuen Kontakt: %1$d",
   "seems_something_wrong": "Es scheint, als wäre ewas schiefgelaufen",
   "we_have_problem": "Wir haben ein Problem…",

@@ -737,7 +737,7 @@
   "general_chore_package": "chore package",
   "general_later": "later",
   "choose_and_define_own_chores_later": "You can choose your own chores and finish them later",
-  "recommendation_based_on_nothing": "the recommendation is based on an average",
+  "recommendation_based_on_nothing": "Our recommendation is based on how much other children in the same age have.",
   "successfull_connection_with_name": "you've got a new contact: %1$d",
   "seems_something_wrong": "seems like something went wrong",
   "we_have_problem": "we've got a problem...",

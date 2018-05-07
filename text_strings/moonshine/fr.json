@@ -737,7 +737,7 @@
   "general_chore_package": "ensemble de tâches",
   "general_later": "plus tard",
   "choose_and_define_own_chores_later": "Vous pouvez choisir vos propres tâches et les finir plus tard",
-  "recommendation_based_on_nothing": "la recommendation est basé sur une moyenne",
+  "recommendation_based_on_nothing": "PLZ_TRANSLATE Our recommendation is based on how much other children in the same age have.",
   "successfull_connection_with_name": "vous avez un nouveau contact: %1$d",
   "seems_something_wrong": "un problème est survenu",
   "we_have_problem": "nous avons un problème...",

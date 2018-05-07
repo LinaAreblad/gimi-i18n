@@ -737,7 +737,7 @@
   "general_chore_package": "insieme di faccende",
   "general_later": "più tardi",
   "choose_and_define_own_chores_later": "Puoi scegliere le tue faccende e finirle più tardi",
-  "recommendation_based_on_nothing": "il suggerimento si basa sulla media",
+  "recommendation_based_on_nothing": "PLZ_TRANSLATE Our recommendation is based on how much other children in the same age have.",
   "successfull_connection_with_name": "hai un nuovo contato: %1$d",
   "seems_something_wrong": "sembra che qualcosa sia andato storto",
   "we_have_problem": "abbiao un problmema...",

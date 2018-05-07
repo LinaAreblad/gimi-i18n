@@ -737,7 +737,7 @@
   "general_chore_package": "taak pakket",
   "general_later": "later",
   "choose_and_define_own_chores_later": "Je kunt je eigen taken kiezen en ze later afmaken",
-  "recommendation_based_on_nothing": "de aanbeveling is gebaseerd op een gemiddelde",
+  "recommendation_based_on_nothing": "PLZ_TRANSLATE Our recommendation is based on how much other children in the same age have.",
   "successfull_connection_with_name": "je hebt een nieuw contact: %1$d",
   "seems_something_wrong": "lijkt alsof er iets fout is gegaan",
   "we_have_problem": "we hebben een probleem...",
