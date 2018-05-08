@@ -1259,5 +1259,6 @@
   "email_invite_description": "we sturen je een email",
   "monthly_allowance_amount_explainer": "PLZ_TRANSLATE Månadspengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får.",
   "weekly_allowance_amount_explainer": "PLZ_TRANSLATE Veckopengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får.",
-  "interest_explainer": "PLZ_TRANSLATE Att förstå ränta är en värdefull lärdom för vuxenlivet och uppmuntrar sparande. Vi rekommenderar en ränta som är ett genomsnitt av vad barn i samma ålder får."
+  "interest_explainer": "PLZ_TRANSLATE Att förstå ränta är en värdefull lärdom för vuxenlivet och uppmuntrar sparande. Vi rekommenderar en ränta som är ett genomsnitt av vad barn i samma ålder får.",
+  "allowance_frequency_explainer": "PLZ_TRANSLATE Veckopeng eller månadspeng? Det beror på vilken tidsperiod som ett barn är moget att hantera pengar över. Det är vanligt att barn under 11 år har veckopeng, och att barn över 11 år har månadspeng."
 }
