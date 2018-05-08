@@ -1188,7 +1188,7 @@
   "cloud_created_noti_description_2": "shake it off",
   "cloud_created_noti_description_3": "ah ah ah",
   "request_permission_title_camera": "PLZ_CHECK Permission to access the camera is missing",
-  "request_permission_camera": "PLZ_CHECK The app needs access to the camera to add picure proof and a new profile picture.",
+  "request_permission_camera": "PLZ_CHECK The app needs access to the camera to add picture proof and a new profile picture.",
   "request_permission_title_notification": "PLZ_CHECK The app doesn't have permission to send notifications",
   "request_permission_notifications": "PLZ_CHECK The app requests permission to send notifications to you when there are transactions or other events that affect your and your family's finances.",
   "request_permission_title_microphone": "PLZ_CHECK The app doesn't have permission to access the microphone",
