@@ -1258,5 +1258,6 @@
   "chore_reward": "PLZ_TRANSLATE Reward",
   "email_invite_description": "PLZ_TRANSLATE we sent you an email",
   "monthly_allowance_amount_explainer": "PLZ_TRANSLATE Månadspengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får.",
-  "weekly_allowance_amount_explainer": "PLZ_TRANSLATE Veckopengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får."
+  "weekly_allowance_amount_explainer": "PLZ_TRANSLATE Veckopengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får.",
+  "interest_explainer": "PLZ_TRANSLATE Att förstå ränta är en värdefull lärdom för vuxenlivet och uppmuntrar sparande. Vi rekommenderar en ränta som är ett genomsnitt av vad barn i samma ålder får."
 }

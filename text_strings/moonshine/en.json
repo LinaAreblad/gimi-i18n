@@ -1258,5 +1258,6 @@
   "chore_reward": "Reward",
   "email_invite_description": "we sent you an email",
   "monthly_allowance_amount_explainer": "Månadspengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får.",
-  "weekly_allowance_amount_explainer": "Veckopengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får."
+  "weekly_allowance_amount_explainer": "Veckopengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får.",
+  "interest_explainer": "Att förstå ränta är en värdefull lärdom för vuxenlivet och uppmuntrar sparande. Vi rekommenderar en ränta som är ett genomsnitt av vad barn i samma ålder får."
 }
