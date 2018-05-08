@@ -1256,5 +1256,7 @@
   "future_interest_help_header_parent": "Interés, ¿qué es eso?",
   "future_interest_help_desc_parent": "La cifra que ves aquí muestra un estimado del próximo pago de intereses, que se basa en el monto de los ahorros en la Nube.",
   "chore_reward": "Recompensa",
-  "email_invite_description": "te enviamos un correo electrónico"
+  "email_invite_description": "te enviamos un correo electrónico",
+  "monthly_allowance_amount_explainer": "PLZ_TRANSLATE Månadspengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får.",
+  "weekly_allowance_amount_explainer": "PLZ_TRANSLATE Veckopengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får."
 }

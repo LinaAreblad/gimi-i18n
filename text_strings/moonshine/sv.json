@@ -1256,5 +1256,7 @@
   "future_interest_help_header_parent": "Ränta, vad är det?",
   "future_interest_help_desc_parent": "Siffran du ser här visar en uppskattning av nästa räntebetalning. Den beräknas på pengarna som sparats i Molnet.",
   "chore_reward": "Belöning",
-  "email_invite_description": "vi har skicka tett email till dig"
+  "email_invite_description": "vi har skicka tett email till dig",
+  "monthly_allowance_amount_explainer": "Månadspengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får.",
+  "weekly_allowance_amount_explainer": "Veckopengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får."
 }

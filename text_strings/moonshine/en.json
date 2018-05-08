@@ -1256,5 +1256,7 @@
   "future_interest_help_header_parent": "PLZ_CHECK Interest, what is it?",
   "future_interest_help_desc_parent": "The figure you see here shows an estimate of the next interest payment, which is based on the savings amount in the Cloud.",
   "chore_reward": "Reward",
-  "email_invite_description": "we sent you an email"
+  "email_invite_description": "we sent you an email",
+  "monthly_allowance_amount_explainer": "Månadspengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får.",
+  "weekly_allowance_amount_explainer": "Veckopengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får."
 }

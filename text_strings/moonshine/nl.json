@@ -1256,5 +1256,7 @@
   "future_interest_help_header_parent": "Rente, wat is het?",
   "future_interest_help_desc_parent": "Het getal dat je hier ziet is de schatting van de volgende rente betaling, gebaseerd op het spaargeld in de cloud.",
   "chore_reward": "Beloning",
-  "email_invite_description": "we sturen je een email"
+  "email_invite_description": "we sturen je een email",
+  "monthly_allowance_amount_explainer": "PLZ_TRANSLATE Månadspengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får.",
+  "weekly_allowance_amount_explainer": "PLZ_TRANSLATE Veckopengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får."
 }
