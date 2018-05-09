@@ -308,7 +308,7 @@
   "general_transfer": "overfør",
   "amount_earned_in": "tjent under %1$d: %2$d",
   "to_be_earned_parent": "kan tjene totalt",
-  "to_be_earned_child": "her fins opplysninger for",
+  "to_be_earned_child": "PLZ_CHECK her kan du tjene",
   "finished_chores": "godkjente",
   "general_pending": "ferdig",
   "general_pending_parent": "Ferdig, men ikke godkjente",
