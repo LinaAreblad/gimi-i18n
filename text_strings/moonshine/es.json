@@ -1086,7 +1086,7 @@
   "welcome_to_gimi_title_3": "Gana tu propio dinero",
   "welcome_to_gimi_desc_3": "Recibe dinero por completar tus tareas y aprende como ganar tu propio dinero.",
   "connected_popover_title": "¡tienes un nuevo contacto!",
-  "connected_popover_text": "Configura el dinero de bolsillo y los intereses para %1$d ahora",
+  "connected_popover_text": "PLZ_TRANSLATE Configura el dinero de bolsillo, tareas y los intereses para %1$d ahora?",
   "general_now": "ahora",
   "general_important": "importante",
   "choosing_chores_for_kid_subtitle": "Puedes cambiar esto después",
