@@ -1256,11 +1256,10 @@
   "future_interest_help_header_parent": "PLZ_TRANSLATE PLZ_CHECK Rente, hva er det?",
   "future_interest_help_desc_parent": "PLZ_TRANSLATE PLZ_CHECK Figuren du ser her viser et estimat på neste rentebetalning. Det er beregnet på pengene som er sparet i Skyen.",
   "chore_reward": "Belønning",
-  "email_invite_description": "PLZ_TRANSLATE we sent you an email",
-  "monthly_allowance_amount_explainer": "PLZ_TRANSLATE Månadspengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får.",
-  "weekly_allowance_amount_explainer": "PLZ_TRANSLATE Veckopengen betalas ut utan krav på motprestation. Vi rekommenderar ett belopp som är ett genomsnitt av vad barn i samma ålder får.",
-  "interest_explainer": "PLZ_TRANSLATE Att förstå ränta är en värdefull lärdom för vuxenlivet och uppmuntrar sparande. Vi rekommenderar en ränta som är ett genomsnitt av vad barn i samma ålder får.",
-  "allowance_frequency_explainer": "PLZ_TRANSLATE Veckopeng eller månadspeng? Det beror på vilken tidsperiod som ett barn är moget att hantera pengar över. Det är vanligt att barn under 11 år har veckopeng, och att barn över 11 år har månadspeng.",
-  "accepted_invite_chores_explainer": "PLZ_TRANSLATE Uppgifter ger barn möjlighet att tjäna extra pengar. Det är viktigt att barn lär sig hur det funkar att tjäna pengar, inte bara få villkorslöst. Här visar vi de mest populära uppgifterna bland andra barn i samma ålder.",
-  "kid_choose_popular_for_age": "Populære for %1$d-åringer"
+  "email_invite_description": "PLZ_TRANSLATE vi har sendt en e-post til deg",
+  "monthly_allowance_amount_explainer": "PLZ_TRANSLATE Månedspengen er utbetalt uten forbehold. Vi anbefaller et beløp som er et gjennomsnitt av hva barn i samme alder har.",
+  "weekly_allowance_amount_explainer": "PLZ_TRANSLATE Ukepengen er utbetalt uten forbehold. Vi anbefaller et beløp som er et gjennomsnitt av hva barn i samme alder har.",
+  "interest_explainer": "PLZ_TRANSLATE At forstå hva rente er, er en verdifull lærdom for voksenlivet og oppfordrer til å spare. Vi anbefaller en rente som er et gjennomsnitt av hva barn i samme alder har.",
+  "allowance_frequency_explainer": "PLZ_TRANSLATE Ukepeng eller månedspeng? Det avhenger av hvilken tid et barn er moden til å håndtere penger over. Det er vanlig at barn under 11 år har en ukepeng, og at barn over 11 år har en månedspeng.",
+  "accepted_invite_chores_explainer": "PLZ_TRANSLATE Oppgaver gir barn mulighet til å tjene ekstra penger. Det er viktig at barn lærer hvordan det fungerer å tjene penger, ikke bare å få ubetinget. Her viser vi de mest populære oppgavene blant andre barn i samme alder."
 }
