@@ -1262,5 +1262,6 @@
   "interest_explainer": "Understanding interest is a valuable lesson for adulthood and encourages children to start saving. We recommend an amount that is the average of what other children of the same age get.",
   "allowance_frequency_explainer": "Weekly or monthly? It depends on the time period over which a child is mature to manage money. It’s common that children younger than 11 years get weekly pocket money, and that children older than 11 years get monthly pocket money.",
   "accepted_invite_chores_explainer": "Chores give children the opportunity to earn some extra. It’s important for children to learn how earning money works, not just receiving it unconditionally. These are the most popular chores amongst children of the same age.",
-  "kid_choose_popular_for_age": "Popular for %1$d year olds"
+  "kid_choose_popular_for_age": "Popular for %1$d year olds",
+  "chore_edited_button_text": "Chore done"
 }

@@ -1262,5 +1262,6 @@
   "interest_explainer": "PLZ_TRANSLATE Att förstå ränta är en värdefull lärdom för vuxenlivet och uppmuntrar sparande. Vi rekommenderar en ränta som är ett genomsnitt av vad barn i samma ålder får.",
   "allowance_frequency_explainer": "PLZ_TRANSLATE Veckopeng eller månadspeng? Det beror på vilken tidsperiod som ett barn är moget att hantera pengar över. Det är vanligt att barn under 11 år har veckopeng, och att barn över 11 år har månadspeng.",
   "accepted_invite_chores_explainer": "PLZ_TRANSLATE Uppgifter ger barn möjlighet att tjäna extra pengar. Det är viktigt att barn lär sig hur det funkar att tjäna pengar, inte bara få villkorslöst. Här visar vi de mest populära uppgifterna bland andra barn i samma ålder.",
-  "kid_choose_popular_for_age": "Suosittu %1$d-vuotiailla"
+  "kid_choose_popular_for_age": "Suosittu %1$d-vuotiailla",
+  "chore_edited_button_text": "PLZ_TRANSLATE Chore done"
 }
