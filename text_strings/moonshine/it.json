@@ -1264,6 +1264,6 @@
   "accepted_invite_chores_explainer": "PLZ_TRANSLATE Uppgifter ger barn möjlighet att tjäna extra pengar. Det är viktigt att barn lär sig hur det funkar att tjäna pengar, inte bara få villkorslöst. Här visar vi de mest populära uppgifterna bland andra barn i samma ålder.",
   "kid_choose_popular_for_age": "PLZ_TRANSLATE Popular for %1$d year olds",
   "chore_edited_button_text": "PLZ_TRANSLATE Chore done",
-  "delete_connection_warning_for_kid": "PLZ_TRANSLATE Pengarna som %1$d är skyldig dig kommer att försvinna från Molnet. Är du säker på att du vill radera %1$d",
+  "delete_connection_warning_for_kid": "PLZ_TRANSLATE The money that %1$d owes you will dissappear from the cloud. Are you sure you want to delete %1$d",
   "general_yes_delete": "PLZ_TRANSLATE Yes, delete"
 }
