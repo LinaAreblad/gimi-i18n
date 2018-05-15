@@ -1263,5 +1263,7 @@
   "allowance_frequency_explainer": "Ukepenger eller månedspenger? Det avhenger av barnets modenhet i forhold til å håndtere penger. Det er vanlig at barn under 11 år har ukepenger, og at barn over 11 år har månedspenger.",
   "accepted_invite_chores_explainer": "Oppgaver gir barn mulighet til å tjene ekstra penger. Det er viktig at barn lærer å tjene penger, ikke bare å få de ubetinget. Her viser vi de mest populære oppgavene som andre barn i samme alder har.",
   "kid_choose_popular_for_age": "Populære for %1$d-åringer",
-  "chore_edited_button_text": "PLZ_TRANSLATE Chore done"
+  "chore_edited_button_text": "PLZ_TRANSLATE Chore done",
+  "delete_connection_warning_for_kid": "PLZ_TRANSLATE Pengarna som %1$d är skyldig dig kommer att försvinna från Molnet. Är du säker på att du vill radera %1$d",
+  "general_yes_delete": "PLZ_TRANSLATE Yes, delete"
 }

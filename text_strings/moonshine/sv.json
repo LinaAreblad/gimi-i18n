@@ -1263,5 +1263,7 @@
   "allowance_frequency_explainer": "Veckopeng eller månadspeng? Det beror på vilken tidsperiod som ett barn är moget att hantera pengar över. Det är vanligt att barn under 11 år har veckopeng, och att barn över 11 år har månadspeng.",
   "accepted_invite_chores_explainer": "Uppgifter ger barn möjlighet att tjäna extra pengar. Det är viktigt att barn lär sig hur det funkar att tjäna pengar, inte bara få villkorslöst. Här visar vi de mest populära uppgifterna bland andra barn i samma ålder.",
   "kid_choose_popular_for_age": "Populära för %1$d-åringar",
-  "chore_edited_button_text": "Chore done"
+  "chore_edited_button_text": "Chore done",
+  "delete_connection_warning_for_kid": "Pengarna som %1$d är skyldig dig kommer att försvinna från Molnet. Är du säker på att du vill radera %1$d",
+  "general_yes_delete": "Ja, radera"
 }
