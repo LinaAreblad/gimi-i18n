@@ -1103,7 +1103,6 @@
   "custom_notification_create_dream": "börja spara till en dröm",
   "kid_onboarding_start": "välkommen till nya Gimi",
   "delete_connection_sure": "är du säker på att du vill radera %1$d?",
-  "delete_connection_warning": "Om du tar bort en kontakt raderas all er historik och kommande transaktioner.",
   "x_have_been_added_to_cloud": "%1$d har lagts till i Molnet.",
   "error_page_title": "Oops!",
   "error_page_subtitle": "Något gick fel 🙈",
@@ -1265,5 +1264,7 @@
   "kid_choose_popular_for_age": "Populära för %1$d-åringar",
   "chore_edited_button_text": "Chore done",
   "delete_connection_warning_for_kid": "Pengarna som %1$d är skyldig dig kommer att försvinna från molnet. Är du säker på att du vill radera %1$d",
-  "general_yes_delete": "Ja, radera"
+  "general_yes_delete": "Ja, radera",
+  "general_no_go_back": "No, go back!",
+  "delete_connection_warning_for_parent": "Pengarna som du är skyldig %1$d att försvinna från Molnet. Är du säker på att du vill radera %1$d?"
 }

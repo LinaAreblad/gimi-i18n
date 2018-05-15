@@ -1103,7 +1103,6 @@
   "custom_notification_create_dream": "inizia a risparmiare per un desiderio",
   "kid_onboarding_start": "benvenuto al nuovo Gimi",
   "delete_connection_sure": "sei sicuro di voler cancellare %1$d?",
-  "delete_connection_warning": "Se cancelli un contatto, tutta la cronologia e le transazioni imminenti saranno cancellate.",
   "x_have_been_added_to_cloud": "%1$d è stato aggiunto al cloud.",
   "error_page_title": "Oops!",
   "error_page_subtitle": "Qualcosa è andato storto 🙈",
@@ -1265,5 +1264,7 @@
   "kid_choose_popular_for_age": "PLZ_TRANSLATE Popular for %1$d year olds",
   "chore_edited_button_text": "PLZ_TRANSLATE Chore done",
   "delete_connection_warning_for_kid": "PLZ_TRANSLATE The money that %1$d owes you will dissappear from the cloud. Are you sure you want to delete %1$d",
-  "general_yes_delete": "PLZ_TRANSLATE Yes, delete"
+  "general_yes_delete": "PLZ_TRANSLATE Yes, delete",
+  "general_no_go_back": "PLZ_TRANSLATE No, go back!",
+  "delete_connection_warning_for_parent": "PLZ_TRANSLATE The money that you owe %1$d will dissappear from the cloud. Are you sure you want to delete %1$d?"
 }

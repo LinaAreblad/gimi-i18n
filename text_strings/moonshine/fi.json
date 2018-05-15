@@ -1103,7 +1103,6 @@
   "custom_notification_create_dream": "aloita säästäminen unelmaa varten",
   "kid_onboarding_start": "tervetuloa uuteen Gimiin",
   "delete_connection_sure": "haluatko varmasti poistaa kontaktin %1$d?",
-  "delete_connection_warning": "Jos poistat kontaktin, kaikki tulevat siirrot poistetaan.",
   "x_have_been_added_to_cloud": "%1$d lisättiin pilveen.",
   "error_page_title": "Hupsis!",
   "error_page_subtitle": "Jokin meni pieleen 🙈",
@@ -1265,5 +1264,7 @@
   "kid_choose_popular_for_age": "Suosittu %1$d-vuotiailla",
   "chore_edited_button_text": "PLZ_TRANSLATE Chore done",
   "delete_connection_warning_for_kid": "PLZ_TRANSLATE The money that %1$d owes you will dissappear from the cloud. Are you sure you want to delete %1$d",
-  "general_yes_delete": "PLZ_TRANSLATE Yes, delete"
+  "general_yes_delete": "PLZ_TRANSLATE Yes, delete",
+  "general_no_go_back": "PLZ_TRANSLATE No, go back!",
+  "delete_connection_warning_for_parent": "PLZ_TRANSLATE The money that you owe %1$d will dissappear from the cloud. Are you sure you want to delete %1$d?"
 }
