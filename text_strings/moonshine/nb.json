@@ -1268,5 +1268,6 @@
   "general_no_go_back": "PLZ_TRANSLATE No, go back!",
   "delete_connection_warning_for_parent": "PLZ_TRANSLATE The money that you owe %1$d will dissappear from the cloud. Are you sure you want to delete %1$d?",
   "get_premium": "PLZ_TRANSLATE Get premium",
-  "premium_with_price": "PLZ_TRANSLATE Gimi premium %1$d/månad"
+  "premium_with_price": "PLZ_TRANSLATE Gimi premium %1$d/månad",
+  "no_active_subscription": "PLZ_TRANSLATE No active subscription"
 }

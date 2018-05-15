@@ -1268,5 +1268,6 @@
   "general_no_go_back": "No, go back!",
   "delete_connection_warning_for_parent": "The money that you owe %1$d will dissappear from the cloud. Are you sure you want to delete %1$d?",
   "get_premium": "Get premium",
-  "premium_with_price": "Gimi premium %1$d/månad"
+  "premium_with_price": "Gimi premium %1$d/månad",
+  "no_active_subscription": "No active subscription"
 }
