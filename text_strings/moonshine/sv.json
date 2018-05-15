@@ -1266,5 +1266,6 @@
   "delete_connection_warning_for_kid": "Pengarna som %1$d är skyldig dig kommer att försvinna från molnet. Är du säker på att du vill radera %1$d",
   "general_yes_delete": "Ja, radera",
   "general_no_go_back": "No, go back!",
-  "delete_connection_warning_for_parent": "Pengarna som du är skyldig %1$d att försvinna från Molnet. Är du säker på att du vill radera %1$d?"
+  "delete_connection_warning_for_parent": "Pengarna som du är skyldig %1$d att försvinna från Molnet. Är du säker på att du vill radera %1$d?",
+  "get_premium": "Get premium"
 }

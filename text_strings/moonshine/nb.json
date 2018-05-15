@@ -1266,5 +1266,6 @@
   "delete_connection_warning_for_kid": "PLZ_TRANSLATE The money that %1$d owes you will dissappear from the cloud. Are you sure you want to delete %1$d",
   "general_yes_delete": "PLZ_TRANSLATE Yes, delete",
   "general_no_go_back": "PLZ_TRANSLATE No, go back!",
-  "delete_connection_warning_for_parent": "PLZ_TRANSLATE The money that you owe %1$d will dissappear from the cloud. Are you sure you want to delete %1$d?"
+  "delete_connection_warning_for_parent": "PLZ_TRANSLATE The money that you owe %1$d will dissappear from the cloud. Are you sure you want to delete %1$d?",
+  "get_premium": "PLZ_TRANSLATE Get premium"
 }
