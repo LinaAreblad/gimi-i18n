@@ -1275,5 +1275,6 @@
   "leave_order_card_flow_popover_title": "PLZ_TRANSLATE You sure you want to leave?",
   "leave_order_card_flow_popover_text": "PLZ_TRANSLATE You can always come back and resume your application!",
   "general_yes_leave": "PLZ_TRANSLATE Yes, leave",
-  "go_back": "PLZ_TRANSLATE Go back"
+  "go_back": "PLZ_TRANSLATE Go back",
+  "parent_loading_screen_text": "PLZ_TRANSLATE Lorem ipsum"
 }

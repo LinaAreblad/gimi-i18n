@@ -1275,5 +1275,6 @@
   "leave_order_card_flow_popover_title": "You sure you want to leave?",
   "leave_order_card_flow_popover_text": "You can always come back and resume your application!",
   "general_yes_leave": "Yes, leave",
-  "go_back": "Go back"
+  "go_back": "Go back",
+  "parent_loading_screen_text": "Lorem ipsum"
 }
