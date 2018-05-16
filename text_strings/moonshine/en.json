@@ -1270,5 +1270,6 @@
   "get_premium": "Get premium",
   "premium_with_price": "Gimi premium %1$d/månad",
   "no_active_subscription": "No active subscription",
-  "general_edit": "Edit"
+  "general_edit": "Edit",
+  "who_gonna_pay": "Vem ska betala?"
 }
