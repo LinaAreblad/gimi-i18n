@@ -1281,5 +1281,18 @@
   "cancel_subscription_descr": "PLZ_TRANSLATE The Gimi card will be irrevocably cancelled and %1$d Gimi account will be closed.",
   "general_yes_cancel": "PLZ_TRANSLATE Yes, cancel",
   "wrong_pin_entered": "PLZ_TRANSLATE Wrong code",
-  "pin_setup_done_descr": "PLZ_TRANSLATE You now have a passcode to the app. Remember it. If you want to change it, just go to settings."
+  "pin_setup_done_descr": "PLZ_TRANSLATE You now have a passcode to the app. Remember it. If you want to change it, just go to settings.",
+  "kid_card_settings_for_parent_title": "PLZ_TRANSLATE functionality",
+  "card_settings_active": "PLZ_TRANSLATE Card is active",
+  "card_settings_online_payments": "PLZ_TRANSLATE Allow online payments",
+  "card_settings_pin_reminder": "PLZ_TRANSLATE PIN reminder",
+  "card_settings_lost": "PLZ_TRANSLATE Lost card",
+  "card_settings_stolen": "PLZ_TRANSLATE Stolen card",
+  "card_settings_spending_notifs": "PLZ_TRANSLATE Spending notifications",
+  "general_info": "PLZ_TRANSLATE Info",
+  "card_settings_terms": "PLZ_TRANSLATE Terms & Conditions",
+  "card_settings_card_info": "PLZ_TRANSLATE Card information",
+  "card_settings_support": "PLZ_TRANSLATE Support",
+  "empty_card_settings": "PLZ_TRANSLATE Its empty here because %1$d dosnt have a card yet!",
+  "card_settings_apply_here": "PLZ_TRANSLATE Apply for one here:"
 }

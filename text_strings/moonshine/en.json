@@ -1281,5 +1281,18 @@
   "cancel_subscription_descr": "The Gimi card will be irrevocably cancelled and %1$d Gimi account will be closed.",
   "general_yes_cancel": "Yes, cancel",
   "wrong_pin_entered": "Wrong code",
-  "pin_setup_done_descr": "You now have a passcode to the app. Remember it. If you want to change it, just go to settings."
+  "pin_setup_done_descr": "You now have a passcode to the app. Remember it. If you want to change it, just go to settings.",
+  "kid_card_settings_for_parent_title": "functionality",
+  "card_settings_active": "Card is active",
+  "card_settings_online_payments": "Allow online payments",
+  "card_settings_pin_reminder": "PIN reminder",
+  "card_settings_lost": "Lost card",
+  "card_settings_stolen": "Stolen card",
+  "card_settings_spending_notifs": "Spending notifications",
+  "general_info": "Info",
+  "card_settings_terms": "Terms & Conditions",
+  "card_settings_card_info": "Card information",
+  "card_settings_support": "Support",
+  "empty_card_settings": "Its empty here because %1$d dosnt have a card yet!",
+  "card_settings_apply_here": "Apply for one here:"
 }
