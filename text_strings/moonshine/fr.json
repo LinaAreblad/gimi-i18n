@@ -1276,5 +1276,7 @@
   "leave_order_card_flow_popover_text": "PLZ_TRANSLATE You can always come back and resume your application!",
   "general_yes_leave": "PLZ_TRANSLATE Yes, leave",
   "go_back": "PLZ_TRANSLATE Go back",
-  "parent_loading_screen_text": "PLZ_TRANSLATE Lorem ipsum"
+  "parent_loading_screen_text": "PLZ_TRANSLATE Lorem ipsum",
+  "question_cancel_subscription": "PLZ_TRANSLATE You sure you want to cancel your Gimi subscription?",
+  "cancel_subscription_descr": "PLZ_TRANSLATE The Gimi card will be irrevocably cancelled and %1$d Gimi account will be closed."
 }
