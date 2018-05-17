@@ -1280,5 +1280,6 @@
   "question_cancel_subscription": "PLZ_TRANSLATE You sure you want to cancel your Gimi subscription?",
   "cancel_subscription_descr": "PLZ_TRANSLATE The Gimi card will be irrevocably cancelled and %1$d Gimi account will be closed.",
   "general_yes_cancel": "PLZ_TRANSLATE Yes, cancel",
-  "wrong_pin_entered": "PLZ_TRANSLATE Wrong code"
+  "wrong_pin_entered": "PLZ_TRANSLATE Wrong code",
+  "pin_setup_done_descr": "PLZ_TRANSLATE You now have a passcode to the app. Remember it. If you want to change it, just go to settings."
 }

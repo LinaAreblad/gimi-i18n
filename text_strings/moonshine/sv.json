@@ -1280,5 +1280,6 @@
   "question_cancel_subscription": "You sure you want to cancel your Gimi subscription?",
   "cancel_subscription_descr": "The Gimi card will be irrevocably cancelled and %1$d Gimi account will be closed.",
   "general_yes_cancel": "Yes, cancel",
-  "wrong_pin_entered": "Wrong code"
+  "wrong_pin_entered": "Wrong code",
+  "pin_setup_done_descr": "You now have a passcode to the app. Remember it. If you want to change it, just go to settings."
 }
