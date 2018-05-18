@@ -1294,5 +1294,10 @@
   "card_settings_card_info": "Card information",
   "card_settings_support": "Support",
   "empty_card_settings": "Its empty here because %1$d dosnt have a card yet!",
-  "card_settings_apply_here": "Apply for one here:"
+  "card_settings_apply_here": "Apply for one here:",
+  "spend_notifs_daily": "Daily",
+  "spend_notifs_weekly": "Weekly",
+  "spend_notifs_monthly": "Monthly",
+  "spend_notifs_add_btn": "Add",
+  "go_to_add_spend_notifs_editor": "Add new spending notification"
 }

@@ -1294,5 +1294,10 @@
   "card_settings_card_info": "PLZ_TRANSLATE Card information",
   "card_settings_support": "PLZ_TRANSLATE Support",
   "empty_card_settings": "PLZ_TRANSLATE Its empty here because %1$d dosnt have a card yet!",
-  "card_settings_apply_here": "PLZ_TRANSLATE Apply for one here:"
+  "card_settings_apply_here": "PLZ_TRANSLATE Apply for one here:",
+  "spend_notifs_daily": "PLZ_TRANSLATE Daily",
+  "spend_notifs_weekly": "PLZ_TRANSLATE Weekly",
+  "spend_notifs_monthly": "PLZ_TRANSLATE Monthly",
+  "spend_notifs_add_btn": "PLZ_TRANSLATE Add",
+  "go_to_add_spend_notifs_editor": "PLZ_TRANSLATE Add new spending notification"
 }
