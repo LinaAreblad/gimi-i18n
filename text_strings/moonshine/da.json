@@ -1301,5 +1301,8 @@
   "spend_notifs_monthly": "PLZ_TRANSLATE Monthly",
   "spend_notifs_add_btn": "PLZ_TRANSLATE Add",
   "go_to_add_spend_notifs_editor": "PLZ_TRANSLATE Add new spending notification",
-  "payment_summary": "PLZ_TRANSLATE Payout summary for %1$d"
+  "payment_summary": "PLZ_TRANSLATE Payout summary for %1$d",
+  "feedback_title": "PLZ_TRANSLATE Oh no! We're so sorry to hear...",
+  "feedback_description": "PLZ_TRANSLATE Please tell us how we can improve and make you happy",
+  "general_feedback": "PLZ_TRANSLATE Feedback"
 }
