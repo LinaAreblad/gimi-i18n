@@ -1300,5 +1300,6 @@
   "spend_notifs_weekly": "PLZ_TRANSLATE Weekly",
   "spend_notifs_monthly": "PLZ_TRANSLATE Monthly",
   "spend_notifs_add_btn": "PLZ_TRANSLATE Add",
-  "go_to_add_spend_notifs_editor": "PLZ_TRANSLATE Add new spending notification"
+  "go_to_add_spend_notifs_editor": "PLZ_TRANSLATE Add new spending notification",
+  "payment_summary": "PLZ_TRANSLATE Payout summary for %1$d"
 }

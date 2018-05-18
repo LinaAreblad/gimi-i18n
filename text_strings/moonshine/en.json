@@ -1300,5 +1300,6 @@
   "spend_notifs_weekly": "Weekly",
   "spend_notifs_monthly": "Monthly",
   "spend_notifs_add_btn": "Add",
-  "go_to_add_spend_notifs_editor": "Add new spending notification"
+  "go_to_add_spend_notifs_editor": "Add new spending notification",
+  "payment_summary": "Payout summary for %1$d"
 }
