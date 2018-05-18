@@ -258,7 +258,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Une allocation a été établie pour vous! Consultez-la dans l'appli!",
   "push_child_has_completed_a_chore": "{assignment.child.name} a terminé une tâche!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} demande la permission de changer vos tâches",
-  "push_name_received_x_in_allowance_from_you_today_mark_it_as_paid_out_if_you_paid_out_cash": "{chore} a reçu{amount} d'allocation de vous aujourd'hui Cochez-la comme payée si vous avez payé en liquide!",
+  "push_payday_parent": "{child.nickname} a reçu{amount} d'allocation de vous aujourd'hui Cochez-la comme payée si vous avez payé en liquide!",
   "push_child_has_reached_a_dream": "{name} a atteint un souhait",
   "event_add_email": "PLZ_CHECK Ajoutez un mail pour le statut et la sécurité",
   "push_short_tutorial": "Voilà comment fonctionne Gimi, en 20 secondes",

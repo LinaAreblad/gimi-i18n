@@ -258,7 +258,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "¡La recompensa es configurada para ti. ¡Verifícalo en la aplicación!",
   "push_child_has_completed_a_chore": "¡{assignment.child.name} ha completado una tarea!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} pide permiso para modificar sus tareas",
-  "push_name_received_x_in_allowance_from_you_today_mark_it_as_paid_out_if_you_paid_out_cash": "{chore} recibió {amount} de recompensa para ti hoy! ¡Márcala como pagada si el pago fue en efectivo!",
+  "push_payday_parent": "{child.nickname} recibió {amount} de recompensa para ti hoy! ¡Márcala como pagada si el pago fue en efectivo!",
   "push_child_has_reached_a_dream": "{name} ha alcanzado un sueño",
   "event_add_email": "Añadir un correo electrónico para estatus y seguridad",
   "push_short_tutorial": "Así funciona Gimi, en 20 segundos",

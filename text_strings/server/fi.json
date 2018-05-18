@@ -258,7 +258,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Sinulle asetettiin taskuraha! Avaa sovellus ja katso!",
   "push_child_has_completed_a_chore": "{assignment.child.name} on suorittanut askareen!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} haluaisi muokata askareitasi",
-  "push_name_received_x_in_allowance_from_you_today_mark_it_as_paid_out_if_you_paid_out_cash": "{chore} sai {amount} määrärahana sinulta tänään! Merkitse se maksetuksi, jos maksoit käteisenä!",
+  "push_payday_parent": "{child.nickname} sai {amount} määrärahana sinulta tänään! Merkitse se maksetuksi, jos maksoit käteisenä!",
   "push_child_has_reached_a_dream": "{name} on saavuttanut unelman",
   "event_add_email": "Lisää sähköpostiosoite ilmoituksia ja suojausta varten",
   "push_short_tutorial": "Näin Gimi toimii, 20 sekunnissa",

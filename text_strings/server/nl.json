@@ -258,7 +258,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Zakgeld is ingesteld voor jou! Controleer het in de app!",
   "push_child_has_completed_a_chore": "{assignment.child.name} heeft een klus af!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} vraagt toestemming om klussen te wijzigen",
-  "push_name_received_x_in_allowance_from_you_today_mark_it_as_paid_out_if_you_paid_out_cash": "{chore} ontvangen {amount} als zakgeld van jou vandaag! Markeer het als uitbetaald als je contant hebt betaald!",
+  "push_payday_parent": "{child.nickname} ontvangen {amount} als zakgeld van jou vandaag! Markeer het als uitbetaald als je contant hebt betaald!",
   "push_child_has_reached_a_dream": "{name} heeft een droom bereikt",
   "event_add_email": "Voeg email toe voor status & veiligheid",
   "push_short_tutorial": "Zo werkt Gimi, binnen 20 seconden",

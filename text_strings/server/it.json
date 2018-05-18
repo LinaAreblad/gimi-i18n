@@ -258,7 +258,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "La tua paghetta è pronta per te! Controllala nell'app!",
   "push_child_has_completed_a_chore": "{assignment.child.name} ha completato una faccenda!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} chiede il permesso di modificare le tue faccende",
-  "push_name_received_x_in_allowance_from_you_today_mark_it_as_paid_out_if_you_paid_out_cash": "{chore} ha ricevuto {amount} nella paghetta da te oggi! Contrassegnalo come pagato se hai pagato in contanti!",
+  "push_payday_parent": "{child.nickname} ha ricevuto {amount} nella paghetta da te oggi! Contrassegnalo come pagato se hai pagato in contanti!",
   "push_child_has_reached_a_dream": "{name} ha raggiunto un sogno",
   "event_add_email": "Aggiungi email per stato e per sicurezza",
   "push_short_tutorial": "Ecco come funziona Gimi in 20 secondi",

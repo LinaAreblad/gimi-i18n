@@ -258,7 +258,7 @@
   "push_allowance_is_set_for_you_check_it_out_in_the_app": "Nye uke- eller månedspenger er blitt bestemt! Sjekk dem i appen!",
   "push_child_has_completed_a_chore": "{assignment.child.name} har fullført en oppgave!",
   "push_parent_name_asks_permission_to_edit_your_chores": "{name} spør om tillatelse til å redigere dine oppgaver",
-  "push_name_received_x_in_allowance_from_you_today_mark_it_as_paid_out_if_you_paid_out_cash": "{chore} fikk {amount} i uke- eller månedspenger av deg i dag! Marker den som utbetalt om du betaler den kontant!",
+  "push_payday_parent": "{child.nickname} fikk {amount} i uke- eller månedspenger av deg i dag! Marker den som utbetalt om du betaler den kontant!",
   "push_child_has_reached_a_dream": "{name} har spart sammen til en drøm",
   "event_add_email": "Legg til din e-post",
   "push_short_tutorial": "Slik fungerer Gimi, på 20 sekunder",
