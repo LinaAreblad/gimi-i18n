@@ -1304,5 +1304,7 @@
   "payment_summary": "Payout summary for %1$d",
   "feedback_title": "Oh no! We're so sorry to hear...",
   "feedback_description": "Please tell us how we can improve and make you happy",
-  "general_feedback": "Feedback"
+  "general_feedback": "Feedback",
+  "someones_card_pin_is": "%1$d card PIN is:\n\n%2$d",
+  "your_card_pin_is": "Your card PIN is:\n\n%1$d"
 }
