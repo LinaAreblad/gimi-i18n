@@ -1313,5 +1313,7 @@
   "general_card_pin": "PLZ_TRANSLATE Card PIN",
   "card_information": "PLZ_TRANSLATE Card Information",
   "spending_limit_header": "PLZ_TRANSLATE How much can %1$d spend?",
-  "spending_period_header": "PLZ_TRANSLATE During which period?"
+  "spending_period_header": "PLZ_TRANSLATE During which period?",
+  "savings_per_month_parent": "PLZ_TRANSLATE Left this month",
+  "savings_per_month_child": "PLZ_TRANSLATE Left this month"
 }

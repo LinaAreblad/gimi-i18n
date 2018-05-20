@@ -1313,5 +1313,7 @@
   "general_card_pin": "Card PIN",
   "card_information": "Card Information",
   "spending_limit_header": "How much can %1$d spend?",
-  "spending_period_header": "During which period?"
+  "spending_period_header": "During which period?",
+  "savings_per_month_parent": "Left this month",
+  "savings_per_month_child": "Left this month"
 }
