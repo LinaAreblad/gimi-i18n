@@ -1312,5 +1312,5 @@
   "card_is_active": "Card is active",
   "general_card_pin": "Card PIN",
   "card_information": "Card Information",
-  "spending_limit_header": "How much can %1$d"
+  "spending_limit_header": "How much can %1$d spend?"
 }
