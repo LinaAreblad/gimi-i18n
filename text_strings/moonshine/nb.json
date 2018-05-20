@@ -1312,5 +1312,6 @@
   "card_is_active": "PLZ_TRANSLATE Card is active",
   "general_card_pin": "PLZ_TRANSLATE Card PIN",
   "card_information": "PLZ_TRANSLATE Card Information",
-  "spending_limit_header": "PLZ_TRANSLATE How much can %1$d spend?"
+  "spending_limit_header": "PLZ_TRANSLATE How much can %1$d spend?",
+  "spending_period_header": "PLZ_TRANSLATE During which period?"
 }
