@@ -1311,5 +1311,6 @@
   "feedback_success_description": "PLZ_TRANSLATE We have received your feedback, and we'll work hard and do our very best to make you happy",
   "card_is_active": "PLZ_TRANSLATE Card is active",
   "general_card_pin": "PLZ_TRANSLATE Card PIN",
-  "card_information": "PLZ_TRANSLATE Card Information"
+  "card_information": "PLZ_TRANSLATE Card Information",
+  "spending_limit_header": "PLZ_TRANSLATE How much can %1$d"
 }

@@ -1311,5 +1311,6 @@
   "feedback_success_description": "We have received your feedback, and we'll work hard and do our very best to make you happy",
   "card_is_active": "Card is active",
   "general_card_pin": "Card PIN",
-  "card_information": "Card Information"
+  "card_information": "Card Information",
+  "spending_limit_header": "How much can %1$d"
 }
