@@ -1308,5 +1308,8 @@
   "someones_card_pin_is": "%1$d card PIN is:\n\n%2$d",
   "your_card_pin_is": "Your card PIN is:\n\n%1$d",
   "feedback_thanks": "Big thanks!",
-  "feedback_success_description": "We have received your feedback, and we'll work hard and do our very best to make you happy"
+  "feedback_success_description": "We have received your feedback, and we'll work hard and do our very best to make you happy",
+  "card_is_active": "Card is active",
+  "general_card_pin": "Card PIN",
+  "card_information": "Card Information"
 }

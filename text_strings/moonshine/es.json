@@ -1308,5 +1308,8 @@
   "someones_card_pin_is": "PLZ_TRANSLATE %1$d card PIN is:\n\n%2$d",
   "your_card_pin_is": "PLZ_TRANSLATE Your card PIN is:\n\n%1$d",
   "feedback_thanks": "PLZ_TRANSLATE Big thanks!",
-  "feedback_success_description": "PLZ_TRANSLATE We have received your feedback, and we'll work hard and do our very best to make you happy"
+  "feedback_success_description": "PLZ_TRANSLATE We have received your feedback, and we'll work hard and do our very best to make you happy",
+  "card_is_active": "PLZ_TRANSLATE Card is active",
+  "general_card_pin": "PLZ_TRANSLATE Card PIN",
+  "card_information": "PLZ_TRANSLATE Card Information"
 }
