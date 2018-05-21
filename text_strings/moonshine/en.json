@@ -1316,5 +1316,6 @@
   "savings_per_month_child": "Left this month",
   "someones_card_pin_is": "%1$d card PIN is:",
   "your_card_pin_is": "Your card PIN is:",
-  "general_card_settings": "Card settings"
+  "general_card_settings": "Card settings",
+  "add_pin_code": "Add PIN-code"
 }

@@ -1316,5 +1316,6 @@
   "savings_per_month_child": "PLZ_TRANSLATE Left this month",
   "someones_card_pin_is": "PLZ_TRANSLATE %1$d card PIN is:",
   "your_card_pin_is": "PLZ_TRANSLATE Your card PIN is:",
-  "general_card_settings": "PLZ_TRANSLATE Card settings"
+  "general_card_settings": "PLZ_TRANSLATE Card settings",
+  "add_pin_code": "PLZ_TRANSLATE Add PIN-code"
 }
