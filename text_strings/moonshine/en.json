@@ -1305,8 +1305,6 @@
   "feedback_title": "Oh no! We're so sorry to hear...",
   "feedback_description": "Please tell us how we can improve and make you happy",
   "general_feedback": "Feedback",
-  "someones_card_pin_is": "%1$d card PIN is:\n\n%2$d",
-  "your_card_pin_is": "Your card PIN is:\n\n%1$d",
   "feedback_thanks": "Big thanks!",
   "feedback_success_description": "We have received your feedback, and we'll work hard and do our very best to make you happy",
   "card_is_active": "Card is active",
@@ -1315,5 +1313,7 @@
   "spending_limit_header": "How much can %1$d spend?",
   "spending_period_header": "During which period?",
   "savings_per_month_parent": "Left this month",
-  "savings_per_month_child": "Left this month"
+  "savings_per_month_child": "Left this month",
+  "someones_card_pin_is": "%1$d card PIN is:",
+  "your_card_pin_is": "Your card PIN is:"
 }
