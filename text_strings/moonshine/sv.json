@@ -1317,5 +1317,7 @@
   "someones_card_pin_is": "%1$d card PIN is:",
   "your_card_pin_is": "Your card PIN is:",
   "general_card_settings": "Card settings",
-  "add_pin_code": "Add PIN-code"
+  "add_pin_code": "Add PIN-code",
+  "spending_notifications": "Spending notifications",
+  "spending_notifications_subtitle": "We'll notify you when spending exceeds a limit you decide"
 }
