@@ -1315,5 +1315,6 @@
   "savings_per_month_parent": "Left this month",
   "savings_per_month_child": "Left this month",
   "someones_card_pin_is": "%1$d card PIN is:",
-  "your_card_pin_is": "Your card PIN is:"
+  "your_card_pin_is": "Your card PIN is:",
+  "general_card_settings": "Card settings"
 }
