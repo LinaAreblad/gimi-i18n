@@ -212,7 +212,7 @@
   "push_user_veckopengen_name_change": "I dag bytter Veckopengen navn til Gimi!!! (aaa - pannik, hjelp meg!!) Nei nei. Ta det med ro. Bare navnet altså. Vi døper om. Navnet blir Gimi.",
   "push_cloud_created": "Din Sky er laget",
   "event_invitation_is_sent": "Invitasjon er sendt",
-  "event_you_are_connected": "Du har fått kontakt!",
+  "event_you_are_connected": "PLZ_CHECK Du har fått en kontakt!",
   "event_you_have_got_an_invitation": "Du har fått en invitasjon",
   "event_invitation_was_not_accepted": "Invitasjonen ble ikke akseptert",
   "event_has_a_new_connection": "Har en ny kontakt",
